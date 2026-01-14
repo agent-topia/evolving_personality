@@ -67,7 +67,7 @@ JPAF是一个基于荣格心理学类型理论的框架，旨在为大型语言�
 ### 1. 克隆仓库
 
 ```bash
-git clone -b main http://codefever.personaworld.net/esportswulei/evolving_personality.git
+git clone -b main https://github.com/agent-topia/evolving_personality.git
 cd evolving_personality
 ```
 
