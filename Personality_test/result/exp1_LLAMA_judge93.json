@@ -1,0 +1,2048 @@
+[
+    {
+        "Question": {
+            "no": 1,
+            "question": "When you're going out for the whole day, what will you do?",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Plan what you will do and when to do it",
+                    "score": "J"
+                },
+                {
+                    "type": "B",
+                    "answer": "Just go",
+                    "score": "P"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "J/P",
+            "reason": "This question reflects attitudes toward planning and flexibility when going out, directly corresponding to the J/P dimension."
+        }
+    },
+    {
+        "Question": {
+            "no": 2,
+            "question": "You consider yourself to be",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "A more spontaneous person",
+                    "score": "P"
+                },
+                {
+                    "type": "B",
+                    "answer": "A more organized person",
+                    "score": "J"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "J/P",
+            "reason": "This question reflects attitudes toward the outside world by comparing spontaneity and organization, directly corresponding to the J/P dimension."
+        }
+    },
+    {
+        "Question": {
+            "no": 3,
+            "question": "If you were a teacher, which course would you prefer to teach?",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "A course based on facts",
+                    "score": "S"
+                },
+                {
+                    "type": "B",
+                    "answer": "A course involving theories",
+                    "score": "N"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "N/S",
+            "reason": "The question reflects the preference for information processing style, comparing concrete facts to abstract theories."
+        }
+    },
+    {
+        "Question": {
+            "no": 4,
+            "question": "You usually",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Mix easily with others",
+                    "score": "E"
+                },
+                {
+                    "type": "B",
+                    "answer": "Are more reserved or restrained",
+                    "score": "I"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "I/E",
+            "reason": "This question reflects energy direction and social preferences by comparing ease of social mixing and being reserved."
+        }
+    },
+    {
+        "Question": {
+            "no": 5,
+            "question": "Generally speaking, with whom do you get along better?",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Imaginative people",
+                    "score": "N"
+                },
+                {
+                    "type": "B",
+                    "answer": "Practical people",
+                    "score": "S"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "N/S",
+            "reason": "This question reflects information acquisition style by comparing preferences for imaginative (abstract) vs. practical (concrete) people, aligning with the N/S dimension."
+        }
+    },
+    {
+        "Question": {
+            "no": 6,
+            "question": "Do you often let",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Your emotions dominate your reason",
+                    "score": "F"
+                },
+                {
+                    "type": "B",
+                    "answer": "Your reason dominate your emotions",
+                    "score": "T"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "T/F",
+            "reason": "This question reflects decision-making logic by comparing the dominance of reason and emotions."
+        }
+    },
+    {
+        "Question": {
+            "no": 7,
+            "question": "In dealing with many things, you would prefer to",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Act according to your whims",
+                    "score": "P"
+                },
+                {
+                    "type": "B",
+                    "answer": "Act according to a plan",
+                    "score": "J"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "J/P",
+            "reason": "This question reflects attitudes toward the outside world (J/P dimension) by comparing planning and flexibility."
+        }
+    },
+    {
+        "Question": {
+            "no": 8,
+            "question": "Are you",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Easy to understand",
+                    "score": "E"
+                },
+                {
+                    "type": "B",
+                    "answer": "Difficult to understand",
+                    "score": "I"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "I/E",
+            "reason": "This question reflects the energy direction and expression style, relating to whether one is introverted or extroverted."
+        }
+    },
+    {
+        "Question": {
+            "no": 9,
+            "question": "Following a schedule",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Suits you",
+                    "score": "J"
+                },
+                {
+                    "type": "B",
+                    "answer": "Makes you feel constrained",
+                    "score": "P"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "J/P",
+            "reason": "This question reflects attitudes toward the outside world by comparing preference for structure (Following a schedule suits you) vs. feeling constrained, aligning with Judging (J) and Perceiving (P) dimension."
+        }
+    },
+    {
+        "Question": {
+            "no": 10,
+            "question": "When you have a special task, you would like to",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Carefully organize and plan before starting",
+                    "score": "J"
+                },
+                {
+                    "type": "B",
+                    "answer": "Figure out what to do as you go along",
+                    "score": "P"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "J/P",
+            "reason": "This question compares planning and flexibility when handling a special task, reflecting attitudes toward the outside world, which corresponds to the J/P dimension."
+        }
+    },
+    {
+        "Question": {
+            "no": 11,
+            "question": "In most situations, you would choose",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Let things happen naturally",
+                    "score": "P"
+                },
+                {
+                    "type": "B",
+                    "answer": "Follow a schedule",
+                    "score": "J"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "J/P",
+            "reason": "This question reflects attitudes toward the outside world (J/P dimension) by comparing planning and flexibility."
+        }
+    },
+    {
+        "Question": {
+            "no": 12,
+            "question": "Most people would say you are a",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Person who values privacy",
+                    "score": "I"
+                },
+                {
+                    "type": "B",
+                    "answer": "Very open and frank person",
+                    "score": "E"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "I/E",
+            "reason": "This question reflects energy direction and focus (I/E dimension) by comparing privacy (introversion) and being open/frank (extroversion)."
+        }
+    },
+    {
+        "Question": {
+            "no": 13,
+            "question": "You would rather be considered as a",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Practical person",
+                    "score": "S"
+                },
+                {
+                    "type": "B",
+                    "answer": "Resourceful person",
+                    "score": "N"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "J/P",
+            "reason": "The question reflects attitudes toward the outside world by comparing practicality and resourcefulness, corresponding to structured and flexible approaches."
+        }
+    },
+    {
+        "Question": {
+            "no": 14,
+            "question": "In a large group of people, usually",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "You introduce everyone",
+                    "score": "E"
+                },
+                {
+                    "type": "B",
+                    "answer": "Others introduce you",
+                    "score": "I"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "I/E",
+            "reason": "This question reflects energy direction and social interaction preferences."
+        }
+    },
+    {
+        "Question": {
+            "no": 15,
+            "question": "Whom would you prefer to be friends with?",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Those who often come up with new ideas",
+                    "score": "N"
+                },
+                {
+                    "type": "B",
+                    "answer": "Those who are down-to-earth",
+                    "score": "S"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "N/S",
+            "reason": "This question reflects information acquisition style (N/S dimension) by comparing preference for new ideas (intuition) and down-to-earth (sensing) friends."
+        }
+    },
+    {
+        "Question": {
+            "no": 16,
+            "question": "You tend to",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Value emotions more than logic",
+                    "score": "F"
+                },
+                {
+                    "type": "B",
+                    "answer": "Value logic more than emotions",
+                    "score": "T"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "T/F",
+            "reason": "This question reflects decision-making logic by comparing the preference for logic or emotions, directly corresponding to the T/F dimension."
+        }
+    },
+    {
+        "Question": {
+            "no": 17,
+            "question": "You would prefer to",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Make plans after observing how things develop",
+                    "score": "P"
+                },
+                {
+                    "type": "B",
+                    "answer": "Make plans early on",
+                    "score": "J"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "J/P",
+            "reason": "This question reflects attitudes toward planning and flexibility, directly corresponding to the J/P dimension."
+        }
+    },
+    {
+        "Question": {
+            "no": 18,
+            "question": "You like to spend a lot of time",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Alone",
+                    "score": "I"
+                },
+                {
+                    "type": "B",
+                    "answer": "With others",
+                    "score": "E"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "I/E",
+            "reason": "This question reflects energy direction and focus by comparing preference for solitude (Introversion) versus being with others (Extroversion)."
+        }
+    },
+    {
+        "Question": {
+            "no": 19,
+            "question": "Being with many people",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Makes you feel energized",
+                    "score": "E"
+                },
+                {
+                    "type": "B",
+                    "answer": "Often makes you feel exhausted",
+                    "score": "I"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "I/E",
+            "reason": "The question involves energy source and social orientation, as being with many people energizes or exhausts, directly relating to extroversion/introversion preferences."
+        }
+    },
+    {
+        "Question": {
+            "no": 20,
+            "question": "You would prefer to",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Arrange appointments and social gatherings well in advance",
+                    "score": "J"
+                },
+                {
+                    "type": "B",
+                    "answer": "Be unrestrained and do whatever is fun at the moment",
+                    "score": "P"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "J/P",
+            "reason": "This question reflects attitudes toward planning and flexibility, directly corresponding to the J/P dimension."
+        }
+    },
+    {
+        "Question": {
+            "no": 21,
+            "question": "When planning a trip, you prefer to",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Act according to your feelings on the day for most of the time",
+                    "score": "P"
+                },
+                {
+                    "type": "B",
+                    "answer": "Know in advance what you will do most of the days",
+                    "score": "J"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "J/P",
+            "reason": "This question reflects attitudes toward planning and flexibility when organizing a trip, aligning with the J/P dimension."
+        }
+    },
+    {
+        "Question": {
+            "no": 22,
+            "question": "At social gatherings, you",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Sometimes feel depressed",
+                    "score": "I"
+                },
+                {
+                    "type": "B",
+                    "answer": "Often have a great time",
+                    "score": "E"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "I/E",
+            "reason": "This question reflects energy direction and focus (I/E dimension) by comparing feelings of depression or enjoyment at social gatherings, indicating introverted or extroverted tendencies."
+        }
+    },
+    {
+        "Question": {
+            "no": 23,
+            "question": "You usually",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Mix easily with others",
+                    "score": "E"
+                },
+                {
+                    "type": "B",
+                    "answer": "Tend to keep to yourself",
+                    "score": "I"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "I/E",
+            "reason": "This question reflects energy direction and focus by comparing social interaction (extroversion) with solitude (introversion)."
+        }
+    },
+    {
+        "Question": {
+            "no": 24,
+            "question": "Which type of people attracts you more?",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Those who are quick-witted and very intelligent",
+                    "score": "N"
+                },
+                {
+                    "type": "B",
+                    "answer": "Those who are practical and have a wealth of common sense",
+                    "score": "S"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "N/S",
+            "reason": "This question reflects information acquisition style by comparing abstract intelligence (N) with practical common sense (S)."
+        }
+    },
+    {
+        "Question": {
+            "no": 25,
+            "question": "In your daily work, you would",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Quite enjoy dealing with emergencies that force you to work against the clock",
+                    "score": "P"
+                },
+                {
+                    "type": "B",
+                    "answer": "Usually plan in advance to avoid working under pressure",
+                    "score": "J"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "J/P",
+            "reason": "This question reflects attitudes toward the outside world (J/P dimension) by comparing planning and flexibility."
+        }
+    },
+    {
+        "Question": {
+            "no": 26,
+            "question": "You think others generally",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Take a long time to get to know you",
+                    "score": "I"
+                },
+                {
+                    "type": "B",
+                    "answer": "Get to know you in a short time",
+                    "score": "E"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "I/E",
+            "reason": "This question reflects social orientation and energy direction by considering how others perceive the respondent, relating to introversion or extroversion."
+        }
+    },
+    {
+        "Question": {
+            "no": 27,
+            "question": "In each of the following pairs of words, which one appeals to you more? Carefully consider the meanings of these words and do not be influenced by their shapes or pronunciations.",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Value privacy",
+                    "score": "I"
+                },
+                {
+                    "type": "B",
+                    "answer": "Be open and frank",
+                    "score": "E"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "I/E",
+            "reason": "The question reflects energy direction and social preferences by comparing being reserved and being outgoing."
+        }
+    },
+    {
+        "Question": {
+            "no": 28,
+            "question": "In each of the following pairs of words, which one appeals to you more? Carefully consider the meanings of these words and do not be influenced by their shapes or pronunciations.",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Pre-arranged",
+                    "score": "J"
+                },
+                {
+                    "type": "B",
+                    "answer": "Unplanned",
+                    "score": "P"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "J/P",
+            "reason": "This question reflects attitudes toward the outside world (J/P dimension) by comparing planning and flexibility."
+        }
+    },
+    {
+        "Question": {
+            "no": 29,
+            "question": "In each of the following pairs of words, which one appeals to you more? Carefully consider the meanings of these words and do not be influenced by their shapes or pronunciations.",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Abstract",
+                    "score": "N"
+                },
+                {
+                    "type": "B",
+                    "answer": "Concrete",
+                    "score": "S"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "N/S",
+            "reason": "The question compares preferences for abstract or concrete words, reflecting information processing styles, which aligns with the N/S dimension."
+        }
+    },
+    {
+        "Question": {
+            "no": 30,
+            "question": "In each of the following pairs of words, which one appeals to you more? Carefully consider the meanings of these words and do not be influenced by their shapes or pronunciations.",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Gentle",
+                    "score": "F"
+                },
+                {
+                    "type": "B",
+                    "answer": "Firm",
+                    "score": "T"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "T/F",
+            "reason": "The question reflects decision-making logic or personal values through the preference for \"Gentle\" or \"Firm\"."
+        }
+    },
+    {
+        "Question": {
+            "no": 31,
+            "question": "In each of the following pairs of words, which one appeals to you more? Carefully consider the meanings of these words and do not be influenced by their shapes or pronunciations.",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Think",
+                    "score": "T"
+                },
+                {
+                    "type": "B",
+                    "answer": "Feel",
+                    "score": "F"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "T/F",
+            "reason": "This question compares 'Think' and 'Feel', reflecting decision-making logic, which corresponds to the T/F dimension."
+        }
+    },
+    {
+        "Question": {
+            "no": 32,
+            "question": "In each of the following pairs of words, which one appeals to you more? Carefully consider the meanings of these words and do not be influenced by their shapes or pronunciations.",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Facts",
+                    "score": "S"
+                },
+                {
+                    "type": "B",
+                    "answer": "Ideas",
+                    "score": "N"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "N/S",
+            "reason": "This question reflects the style of information acquisition by comparing preference for concrete facts or abstract ideas."
+        }
+    },
+    {
+        "Question": {
+            "no": 33,
+            "question": "In each of the following pairs of words, which one appeals to you more? Carefully consider the meanings of these words and do not be influenced by their shapes or pronunciations.",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Impulsive",
+                    "score": "P"
+                },
+                {
+                    "type": "B",
+                    "answer": "Decisive",
+                    "score": "J"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "J/P",
+            "reason": "The question compares spontaneity (Impulsive) and decisiveness (Decisive), reflecting attitudes toward planning and flexibility."
+        }
+    },
+    {
+        "Question": {
+            "no": 34,
+            "question": "In each of the following pairs of words, which one appeals to you more? Carefully consider the meanings of these words and do not be influenced by their shapes or pronunciations.",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Enthusiastic",
+                    "score": "E"
+                },
+                {
+                    "type": "B",
+                    "answer": "Quiet",
+                    "score": "I"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "I/E",
+            "reason": "The question reflects energy direction and social orientation by comparing preferences for \"Enthusiastic\" (outgoing) and \"Quiet\" (reserved)."
+        }
+    },
+    {
+        "Question": {
+            "no": 35,
+            "question": "In each of the following pairs of words, which one appeals to you more? Carefully consider the meanings of these words and do not be influenced by their shapes or pronunciations.",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Quiet",
+                    "score": "I"
+                },
+                {
+                    "type": "B",
+                    "answer": "Outgoing",
+                    "score": "E"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "I/E",
+            "reason": "The question compares preferences for \"Quiet\" and \"Outgoing\", reflecting energy direction and social orientation, aligning with the I/E dimension."
+        }
+    },
+    {
+        "Question": {
+            "no": 36,
+            "question": "In each of the following pairs of words, which one appeals to you more? Carefully consider the meanings of these words and do not be influenced by their shapes or pronunciations.",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Systematic",
+                    "score": "J"
+                },
+                {
+                    "type": "B",
+                    "answer": "Random",
+                    "score": "P"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "J/P",
+            "reason": "The question compares preferences for \"Systematic\" vs. \"Random\", reflecting structured vs. spontaneous attitudes, aligning with J/P dimension characteristics."
+        }
+    },
+    {
+        "Question": {
+            "no": 37,
+            "question": "In each of the following pairs of words, which one appeals to you more? Carefully consider the meanings of these words and do not be influenced by their shapes or pronunciations.",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Theory",
+                    "score": "N"
+                },
+                {
+                    "type": "B",
+                    "answer": "Certainty",
+                    "score": "S"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "N/S",
+            "reason": "The question reflects information processing style by comparing preferences for abstract concepts (Theory) versus concrete facts (Certainty)."
+        }
+    },
+    {
+        "Question": {
+            "no": 38,
+            "question": "In each of the following pairs of words, which one appeals to you more? Carefully consider the meanings of these words and do not be influenced by their shapes or pronunciations.",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Sensitive",
+                    "score": "F"
+                },
+                {
+                    "type": "B",
+                    "answer": "Fair",
+                    "score": "T"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "T/F",
+            "reason": "The question reflects decision-making logic by comparing subjective emotion (Sensitive) and objective logic (Fair)."
+        }
+    },
+    {
+        "Question": {
+            "no": 39,
+            "question": "In each of the following pairs of words, which one appeals to you more? Carefully consider the meanings of these words and do not be influenced by their shapes or pronunciations.",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Convincing",
+                    "score": "T"
+                },
+                {
+                    "type": "B",
+                    "answer": "Touching",
+                    "score": "F"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "T/F",
+            "reason": "The question compares \"Convincing\" and \"Touching\", reflecting decision-making logic. \"Convincing\" relates to objective logic, while \"Touching\" relates to subjective emotion, aligning with the T/F dimension."
+        }
+    },
+    {
+        "Question": {
+            "no": 40,
+            "question": "In each of the following pairs of words, which one appeals to you more? Carefully consider the meanings of these words and do not be influenced by their shapes or pronunciations.",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Statement",
+                    "score": "S"
+                },
+                {
+                    "type": "B",
+                    "answer": "Concept",
+                    "score": "N"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "N/S",
+            "reason": "The question reflects a preference for concrete (Statement) vs. abstract (Concept) expressions, corresponding to the N/S dimension."
+        }
+    },
+    {
+        "Question": {
+            "no": 41,
+            "question": "In each of the following pairs of words, which one appeals to you more? Carefully consider the meanings of these words and do not be influenced by their shapes or pronunciations.",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Unrestrained",
+                    "score": "P"
+                },
+                {
+                    "type": "B",
+                    "answer": "Pre-arranged",
+                    "score": "J"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "J/P",
+            "reason": "This question reflects attitudes toward the outside world (J/P dimension) by comparing planning and flexibility."
+        }
+    },
+    {
+        "Question": {
+            "no": 42,
+            "question": "In each of the following pairs of words, which one appeals to you more? Carefully consider the meanings of these words and do not be influenced by their shapes or pronunciations.",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Reserved",
+                    "score": "I"
+                },
+                {
+                    "type": "B",
+                    "answer": "Talkative",
+                    "score": "E"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "I/E",
+            "reason": "The question compares preferences between \"Reserved\" and \"Talkative\", reflecting social orientation and energy direction, aligning with the I/E dimension."
+        }
+    },
+    {
+        "Question": {
+            "no": 43,
+            "question": "In each of the following pairs of words, which one appeals to you more? Carefully consider the meanings of these words and do not be influenced by their shapes or pronunciations.",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Methodical",
+                    "score": "J"
+                },
+                {
+                    "type": "B",
+                    "answer": "Unconcerned with details",
+                    "score": "P"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "J/P",
+            "reason": "The question compares preferences for \"Methodical\" (structured) vs. \"Unconcerned with details\" (flexible), reflecting attitudes toward planning and organization, aligning with J/P dimension."
+        }
+    },
+    {
+        "Question": {
+            "no": 44,
+            "question": "In each of the following pairs of words, which one appeals to you more? Carefully consider the meanings of these words and do not be influenced by their shapes or pronunciations.",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Ideas",
+                    "score": "N"
+                },
+                {
+                    "type": "B",
+                    "answer": "Facts",
+                    "score": "S"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "N/S",
+            "reason": "This question reflects information acquisition style by comparing preference for abstract ideas (N) and concrete facts (S)."
+        }
+    },
+    {
+        "Question": {
+            "no": 45,
+            "question": "In each of the following pairs of words, which one appeals to you more? Carefully consider the meanings of these words and do not be influenced by their shapes or pronunciations.",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Compassion",
+                    "score": "F"
+                },
+                {
+                    "type": "B",
+                    "answer": "Foresight",
+                    "score": "T"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "T/F",
+            "reason": "The question reflects a preference between compassion (emotional/interpersonal) and foresight (planning/forward-thinking), relating to decision-making values or logic."
+        }
+    },
+    {
+        "Question": {
+            "no": 46,
+            "question": "In each of the following pairs of words, which one appeals to you more? Carefully consider the meanings of these words and do not be influenced by their shapes or pronunciations.",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Benefit",
+                    "score": "T"
+                },
+                {
+                    "type": "B",
+                    "answer": "Blessing",
+                    "score": "F"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "T/F",
+            "reason": "This question reflects decision-making logic by comparing objective and subjective preferences."
+        }
+    },
+    {
+        "Question": {
+            "no": 47,
+            "question": "In each of the following pairs of words, which one appeals to you more? Carefully consider the meanings of these words and do not be influenced by their shapes or pronunciations.",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Practical",
+                    "score": "S"
+                },
+                {
+                    "type": "B",
+                    "answer": "Theoretical",
+                    "score": "N"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "N/S",
+            "reason": "The question compares preferences between \"Practical\" and \"Theoretical\", reflecting information processing styles, which corresponds to the N/S dimension."
+        }
+    },
+    {
+        "Question": {
+            "no": 48,
+            "question": "In each of the following pairs of words, which one appeals to you more? Carefully consider the meanings of these words and do not be influenced by their shapes or pronunciations.",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Few friends",
+                    "score": "I"
+                },
+                {
+                    "type": "B",
+                    "answer": "Many friends",
+                    "score": "E"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "I/E",
+            "reason": "The question reflects energy direction and social preferences by comparing the appeal of having few or many friends."
+        }
+    },
+    {
+        "Question": {
+            "no": 49,
+            "question": "In each of the following pairs of words, which one appeals to you more? Carefully consider the meanings of these words and do not be influenced by their shapes or pronunciations.",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Systematic",
+                    "score": "J"
+                },
+                {
+                    "type": "B",
+                    "answer": "Impromptu",
+                    "score": "P"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "J/P",
+            "reason": "The question compares preferences between \"Systematic\" (structured) and \"Impromptu\" (spontaneous), reflecting attitudes toward planning and flexibility, which corresponds to the J/P dimension."
+        }
+    },
+    {
+        "Question": {
+            "no": 50,
+            "question": "In each of the following pairs of words, which one appeals to you more? Carefully consider the meanings of these words and do not be influenced by their shapes or pronunciations.",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Imaginative",
+                    "score": "N"
+                },
+                {
+                    "type": "B",
+                    "answer": "Matter-of-fact",
+                    "score": "S"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "N/S",
+            "reason": "The question compares preferences between \"Imaginative\" (abstract, theoretical) and \"Matter-of-fact\" (concrete, factual), reflecting information processing styles, which corresponds to the N/S dimension."
+        }
+    },
+    {
+        "Question": {
+            "no": 51,
+            "question": "In each of the following pairs of words, which one appeals to you more? Carefully consider the meanings of these words and do not be influenced by their shapes or pronunciations.",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Affectionately",
+                    "score": "F"
+                },
+                {
+                    "type": "B",
+                    "answer": "Objectively",
+                    "score": "T"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "T/F",
+            "reason": "The question compares \"Affectionately\" (subjective emotion) and \"Objectively\" (objective logic), reflecting decision-making logic and value orientation, which corresponds to the T/F dimension."
+        }
+    },
+    {
+        "Question": {
+            "no": 52,
+            "question": "In each of the following pairs of words, which one appeals to you more? Carefully consider the meanings of these words and do not be influenced by their shapes or pronunciations.",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Objectively",
+                    "score": "T"
+                },
+                {
+                    "type": "B",
+                    "answer": "Passionately",
+                    "score": "F"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "T/F",
+            "reason": "The question involves decision-making criteria, contrasting \"Objectively\" (logical reasoning) with \"Passionately\" (emotional involvement), aligning with the T/F dimension."
+        }
+    },
+    {
+        "Question": {
+            "no": 53,
+            "question": "In each of the following pairs of words, which one appeals to you more? Carefully consider the meanings of these words and do not be influenced by their shapes or pronunciations.",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Build",
+                    "score": "S"
+                },
+                {
+                    "type": "B",
+                    "answer": "Invent",
+                    "score": "N"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "N/S",
+            "reason": "The question compares preferences for concrete actions (Build) vs. creative possibilities (Invent), reflecting differences in information processing and imagination, aligning with N/S dimension."
+        }
+    },
+    {
+        "Question": {
+            "no": 54,
+            "question": "In each of the following pairs of words, which one appeals to you more? Carefully consider the meanings of these words and do not be influenced by their shapes or pronunciations.",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Quiet",
+                    "score": "I"
+                },
+                {
+                    "type": "B",
+                    "answer": "Sociable",
+                    "score": "E"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "I/E",
+            "reason": "The question reflects energy direction and social preferences by comparing \"Quiet\" and \"Sociable\"."
+        }
+    },
+    {
+        "Question": {
+            "no": 55,
+            "question": "In each of the following pairs of words, which one appeals to you more? Carefully consider the meanings of these words and do not be influenced by their shapes or pronunciations.",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Theory",
+                    "score": "N"
+                },
+                {
+                    "type": "B",
+                    "answer": "Fact",
+                    "score": "S"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "N/S",
+            "reason": "The question involves preference between abstract concepts (Theory) and concrete information (Fact), reflecting the information acquisition style, which corresponds to the N/S dimension."
+        }
+    },
+    {
+        "Question": {
+            "no": 56,
+            "question": "In each of the following pairs of words, which one appeals to you more? Carefully consider the meanings of these words and do not be influenced by their shapes or pronunciations.",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Sympathetic",
+                    "score": "F"
+                },
+                {
+                    "type": "B",
+                    "answer": "Logical",
+                    "score": "T"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "T/F",
+            "reason": "The question compares \"Sympathetic\" (subjective emotion) and \"Logical\" (objective logic), reflecting decision-making criteria and value orientation, which corresponds to the T/F dimension."
+        }
+    },
+    {
+        "Question": {
+            "no": 57,
+            "question": "For each of the following pairs of words, which word appeals to you more? Please carefully consider the meanings of the words and disregard their shapes or pronunciations.",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Analytical",
+                    "score": "T"
+                },
+                {
+                    "type": "B",
+                    "answer": "Sentimental",
+                    "score": "F"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "T/F",
+            "reason": "This question reflects decision-making logic by comparing analytical and sentimental approaches."
+        }
+    },
+    {
+        "Question": {
+            "no": 58,
+            "question": "For each of the following pairs of words, which word appeals to you more? Please carefully consider the meanings of the words and disregard their shapes or pronunciations.",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Reasonable",
+                    "score": "S"
+                },
+                {
+                    "type": "B",
+                    "answer": "Fascinating",
+                    "score": "N"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "T/F",
+            "reason": "The question reflects decision-making logic by comparing logical and emotional appeal."
+        }
+    },
+    {
+        "Question": {
+            "no": 59,
+            "question": "When you have to complete a big project within a week, what will you do at the beginning?",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "List the different tasks to be done in order",
+                    "score": "J"
+                },
+                {
+                    "type": "B",
+                    "answer": "Start working immediately",
+                    "score": "P"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "J/P",
+            "reason": "This question reflects attitudes toward planning and flexibility when approaching a task, aligning with the J/P dimension."
+        }
+    },
+    {
+        "Question": {
+            "no": 60,
+            "question": "In social situations, you often feel",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "It's hard to start a conversation and keep it going with some people",
+                    "score": "I"
+                },
+                {
+                    "type": "B",
+                    "answer": "You can have a relaxed long conversation with most people",
+                    "score": "E"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "I/E",
+            "reason": "This question reflects energy direction and social preference by comparing difficulty in conversation with ease of conversation, relating to introversion (I) or extroversion (E)."
+        }
+    },
+    {
+        "Question": {
+            "no": 61,
+            "question": "When doing something that many people also do, you prefer",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "To do it according to the generally recognized method",
+                    "score": "S"
+                },
+                {
+                    "type": "B",
+                    "answer": "To come up with your own idea",
+                    "score": "N"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "J/P",
+            "reason": "This question reflects attitudes toward the outside world by comparing structured and spontaneous approaches."
+        }
+    },
+    {
+        "Question": {
+            "no": 62,
+            "question": "Can your newly - met friends tell your interests?",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Right away",
+                    "score": "E"
+                },
+                {
+                    "type": "B",
+                    "answer": "Only after they truly get to know you",
+                    "score": "I"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "I/E",
+            "reason": "The question reflects how openly one expresses their interests to others, relating to extroversion or introversion."
+        }
+    },
+    {
+        "Question": {
+            "no": 63,
+            "question": "The subjects you usually prefer are",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Those that teach concepts and principles",
+                    "score": "N"
+                },
+                {
+                    "type": "B",
+                    "answer": "Those that teach facts and data",
+                    "score": "S"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "N/S",
+            "reason": "This question reflects information acquisition style by comparing preference for abstract concepts and concrete facts."
+        }
+    },
+    {
+        "Question": {
+            "no": 64,
+            "question": "Which is a higher compliment or praise?",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "A consistently emotional person",
+                    "score": "F"
+                },
+                {
+                    "type": "B",
+                    "answer": "A consistently rational person",
+                    "score": "T"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "T/F",
+            "reason": "This question involves evaluating the value of rationality vs. emotionality, reflecting decision-making logic and thus belonging to the T/F dimension."
+        }
+    },
+    {
+        "Question": {
+            "no": 65,
+            "question": "You think following a schedule",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Is sometimes necessary, but generally you don't like to do it that way",
+                    "score": "P"
+                },
+                {
+                    "type": "B",
+                    "answer": "Is helpful in most cases and is something you like to do",
+                    "score": "J"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "J/P",
+            "reason": "This question reflects attitudes toward planning and flexibility, directly corresponding to the J/P dimension."
+        }
+    },
+    {
+        "Question": {
+            "no": 66,
+            "question": "When you are with a group of people, you usually choose",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "To talk with a few individuals you are very familiar with",
+                    "score": "I"
+                },
+                {
+                    "type": "B",
+                    "answer": "To participate in the group conversation",
+                    "score": "E"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "I/E",
+            "reason": "This question reflects energy direction and social preferences by comparing individual interaction with group participation, aligning with I/E dimension."
+        }
+    },
+    {
+        "Question": {
+            "no": 67,
+            "question": "At social gatherings, you will",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Be the one who talks a lot",
+                    "score": "E"
+                },
+                {
+                    "type": "B",
+                    "answer": "Let others talk more",
+                    "score": "I"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "I/E",
+            "reason": "This question reflects energy direction and social preference by comparing extroverted and introverted behaviors."
+        }
+    },
+    {
+        "Question": {
+            "no": 68,
+            "question": "The idea of making a list of things to be done during the weekend",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Appeals to you",
+                    "score": "J"
+                },
+                {
+                    "type": "B",
+                    "answer": "Makes you lose motivation",
+                    "score": "P"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "J/P",
+            "reason": "This question reflects attitudes toward planning and flexibility, directly corresponding to the J/P dimension."
+        }
+    },
+    {
+        "Question": {
+            "no": 69,
+            "question": "Which is a higher compliment or praise?",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Competent",
+                    "score": "T"
+                },
+                {
+                    "type": "B",
+                    "answer": "Compassionate",
+                    "score": "F"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "T/F",
+            "reason": "This question reflects decision-making logic and value orientation by comparing objective competence and subjective compassion."
+        }
+    },
+    {
+        "Question": {
+            "no": 70,
+            "question": "You usually prefer",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "To arrange your social appointments in advance",
+                    "score": "J"
+                },
+                {
+                    "type": "B",
+                    "answer": "To do things as the mood strikes you",
+                    "score": "P"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "J/P",
+            "reason": "This question reflects attitudes toward the outside world by comparing planning and flexibility."
+        }
+    },
+    {
+        "Question": {
+            "no": 71,
+            "question": "Generally speaking, when doing a big assignment, you will choose",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "To figure out what to do as you go along",
+                    "score": "P"
+                },
+                {
+                    "type": "B",
+                    "answer": "To first break the work down into steps",
+                    "score": "J"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "J/P",
+            "reason": "This question compares planning and flexibility when approaching a big assignment, reflecting attitudes toward the outside world, aligning with the J/P dimension."
+        }
+    },
+    {
+        "Question": {
+            "no": 72,
+            "question": "Can you talk endlessly with others?",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Only with people who share your interests",
+                    "score": "I"
+                },
+                {
+                    "type": "B",
+                    "answer": "With almost anyone",
+                    "score": "E"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "I/E",
+            "reason": "This question reflects energy direction and social orientation by comparing interaction preferences."
+        }
+    },
+    {
+        "Question": {
+            "no": 73,
+            "question": "You will",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Follow some proven effective methods",
+                    "score": "S"
+                },
+                {
+                    "type": "B",
+                    "answer": "Analyze the data to see what other methods are available",
+                    "score": "N"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "J/P",
+            "reason": "This question reflects attitudes toward task approach by comparing structured and flexible methods."
+        }
+    },
+    {
+        "Question": {
+            "no": 74,
+            "question": "When reading for fun, you will",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Like unique or innovative ways of expression",
+                    "score": "N"
+                },
+                {
+                    "type": "B",
+                    "answer": "Like the author to speak plainly",
+                    "score": "S"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "N/S",
+            "reason": "This question reflects the preference for information processing style, with Option A indicating a preference for abstract or innovative concepts (N) and Option B indicating a preference for straightforward facts (S)."
+        }
+    },
+    {
+        "Question": {
+            "no": 75,
+            "question": "You would rather work for which type of boss (or teacher)?",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "One who is kind - hearted but often inconsistent",
+                    "score": "F"
+                },
+                {
+                    "type": "B",
+                    "answer": "One who is sharp - tongued but always logical",
+                    "score": "T"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "T/F",
+            "reason": "This question reflects decision-making logic by comparing logic and interpersonal harmony."
+        }
+    },
+    {
+        "Question": {
+            "no": 76,
+            "question": "Most of the time, you do things",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "According to your mood of the day",
+                    "score": "P"
+                },
+                {
+                    "type": "B",
+                    "answer": "According to a pre - planned schedule",
+                    "score": "J"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "J/P",
+            "reason": "This question reflects attitudes toward planning and flexibility, comparing pre-planned schedules (J) and mood-based actions (P)."
+        }
+    },
+    {
+        "Question": {
+            "no": 77,
+            "question": "Are you",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Able to talk comfortably with anyone as needed",
+                    "score": "E"
+                },
+                {
+                    "type": "B",
+                    "answer": "Only able to speak freely with certain people or in certain situations",
+                    "score": "I"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "I/E",
+            "reason": "This question reflects energy direction and social preferences by comparing comfort levels in social interactions."
+        }
+    },
+    {
+        "Question": {
+            "no": 78,
+            "question": "When making a decision, you think what is more important is",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Weighing according to the facts",
+                    "score": "T"
+                },
+                {
+                    "type": "B",
+                    "answer": "Considering others' feelings and opinions",
+                    "score": "F"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "T/F",
+            "reason": "This question reflects decision-making logic (T/F dimension) by comparing objective facts and subjective feelings."
+        }
+    },
+    {
+        "Question": {
+            "no": 79,
+            "question": "For each of the following pairs of words, which word appeals to you more?",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Imaginative",
+                    "score": "N"
+                },
+                {
+                    "type": "B",
+                    "answer": "Real",
+                    "score": "S"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "N/S",
+            "reason": "The question compares preferences between abstract (Imaginative) and concrete (Real) concepts, reflecting the information acquisition style associated with the N/S dimension."
+        }
+    },
+    {
+        "Question": {
+            "no": 80,
+            "question": "For each of the following pairs of words, which word appeals to you more?",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Benevolent and generous",
+                    "score": "F"
+                },
+                {
+                    "type": "B",
+                    "answer": "Determined",
+                    "score": "T"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "T/F",
+            "reason": "The question involves comparing words associated with values or decision-making criteria, with \"Benevolent and generous\" relating to interpersonal harmony (Feeling) and \"Determined\" relating to objective resolve (Thinking)."
+        }
+    },
+    {
+        "Question": {
+            "no": 81,
+            "question": "For each of the following pairs of words, which word appeals to you more?",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Fair",
+                    "score": "T"
+                },
+                {
+                    "type": "B",
+                    "answer": "Caring",
+                    "score": "F"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "T/F",
+            "reason": "The question compares \"Fair\" and \"Caring\", reflecting decision-making logic and value orientation, which corresponds to the T/F dimension."
+        }
+    },
+    {
+        "Question": {
+            "no": 82,
+            "question": "For each of the following pairs of words, which word appeals to you more?",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Making",
+                    "score": "S"
+                },
+                {
+                    "type": "B",
+                    "answer": "Designing",
+                    "score": "N"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "N/S",
+            "reason": "The question involves the preference between two words, indicating a difference in information processing or conceptualization style, aligning with the N/S dimension."
+        }
+    },
+    {
+        "Question": {
+            "no": 83,
+            "question": "For each of the following pairs of words, which word appeals to you more?",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Possibility",
+                    "score": "N"
+                },
+                {
+                    "type": "B",
+                    "answer": "Certainty",
+                    "score": "S"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "N/S",
+            "reason": "The preference between \"Possibility\" and \"Certainty\" reflects the information processing style and focus on future possibilities or present realities, aligning with N/S."
+        }
+    },
+    {
+        "Question": {
+            "no": 84,
+            "question": "For each of the following pairs of words, which word appeals to you more?",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Gentleness",
+                    "score": "F"
+                },
+                {
+                    "type": "B",
+                    "answer": "Strength",
+                    "score": "T"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "T/F",
+            "reason": "This question reflects decision-making logic by comparing values associated with Feeling (Gentleness) and Thinking (Strength)."
+        }
+    },
+    {
+        "Question": {
+            "no": 85,
+            "question": "For each of the following pairs of words, which word appeals to you more?",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Practical",
+                    "score": "T"
+                },
+                {
+                    "type": "B",
+                    "answer": "Sentimental",
+                    "score": "F"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "T/F",
+            "reason": "This question involves decision-making criteria, comparing practical (logical) and sentimental (emotional) values, corresponding to the T/F dimension."
+        }
+    },
+    {
+        "Question": {
+            "no": 86,
+            "question": "For each of the following pairs of words, which word appeals to you more?",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Manufacturing",
+                    "score": "S"
+                },
+                {
+                    "type": "B",
+                    "answer": "Creating",
+                    "score": "N"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "N/S",
+            "reason": "The question reflects the preference between concrete, practical processes and abstract, imaginative activities, aligning with the N/S dimension."
+        }
+    },
+    {
+        "Question": {
+            "no": 87,
+            "question": "For each of the following pairs of words, which word appeals to you more?",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Novel",
+                    "score": "N"
+                },
+                {
+                    "type": "B",
+                    "answer": "Known",
+                    "score": "S"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "N/S",
+            "reason": "This question reflects information acquisition style by comparing preference for novel or known concepts."
+        }
+    },
+    {
+        "Question": {
+            "no": 88,
+            "question": "For each of the following pairs of words, which word appeals to you more?",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Sympathy",
+                    "score": "F"
+                },
+                {
+                    "type": "B",
+                    "answer": "Analysis",
+                    "score": "T"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "T/F",
+            "reason": "This question compares logical analysis and emotional sympathy, reflecting decision-making logic."
+        }
+    },
+    {
+        "Question": {
+            "no": 89,
+            "question": "For each of the following pairs of words, which word appeals to you more?",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Assertive",
+                    "score": "T"
+                },
+                {
+                    "type": "B",
+                    "answer": "Gentle and caring",
+                    "score": "F"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "T/F",
+            "reason": "The question compares decision-making preferences between assertiveness and gentleness, reflecting objective logic vs. subjective emotion, aligning with the T/F dimension."
+        }
+    },
+    {
+        "Question": {
+            "no": 90,
+            "question": "For each of the following pairs of words, which word appeals to you more?",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Concrete",
+                    "score": "S"
+                },
+                {
+                    "type": "B",
+                    "answer": "Abstract",
+                    "score": "N"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "N/S",
+            "reason": "This question reflects information acquisition style by comparing preference for concrete or abstract concepts."
+        }
+    },
+    {
+        "Question": {
+            "no": 91,
+            "question": "For each of the following pairs of words, which word appeals to you more?",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Devotedly",
+                    "score": "F"
+                },
+                {
+                    "type": "B",
+                    "answer": "Determinedly",
+                    "score": "T"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "T/F",
+            "reason": "The choice between \"Devotedly\" and \"Determinedly\" reflects decision-making or commitment style, with \"Devotedly\" implying emotional dedication and \"Determinedly\" suggesting resolute decision-making, aligning with the T/F dimension."
+        }
+    },
+    {
+        "Question": {
+            "no": 92,
+            "question": "For each of the following pairs of words, which word appeals to you more?",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Competent",
+                    "score": "T"
+                },
+                {
+                    "type": "B",
+                    "answer": "Kind - hearted",
+                    "score": "F"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "T/F",
+            "reason": "The question compares preferences between \"Competent\" and \"Kind-hearted\", reflecting decision-making logic and value orientation, which corresponds to the T/F dimension."
+        }
+    },
+    {
+        "Question": {
+            "no": 93,
+            "question": "For each of the following pairs of words, which word appeals to you more?",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Practical",
+                    "score": "S"
+                },
+                {
+                    "type": "B",
+                    "answer": "Innovative",
+                    "score": "N"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "N/S",
+            "reason": "This question compares preferences for practicality vs. innovation, reflecting information processing styles and attitudes toward concrete facts vs. abstract concepts, aligning with the N/S dimension."
+        }
+    }
+]

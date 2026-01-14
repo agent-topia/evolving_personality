@@ -1,0 +1,922 @@
+[
+  {
+    "no": 1,
+    "question": "When you're going out for the whole day, what will you do?",
+    "answerOptions": [
+      {
+        "type": "A",
+        "answer": "Plan what you will do and when to do it",
+        "score": "J"
+      },
+      { "type": "B", "answer": "Just go", "score": "P" }
+    ]
+  },
+  {
+    "no": 2,
+    "question": "You consider yourself to be",
+    "answerOptions": [
+      { "type": "A", "answer": "A more spontaneous person", "score": "P" },
+      { "type": "B", "answer": "A more organized person", "score": "J" }
+    ]
+  },
+  {
+    "no": 3,
+    "question": "If you were a teacher, which course would you prefer to teach?",
+    "answerOptions": [
+      { "type": "A", "answer": "A course based on facts", "score": "S" },
+      { "type": "B", "answer": "A course involving theories", "score": "N" }
+    ]
+  },
+  {
+    "no": 4,
+    "question": "You usually",
+    "answerOptions": [
+      { "type": "A", "answer": "Mix easily with others", "score": "E" },
+      { "type": "B", "answer": "Are more reserved or restrained", "score": "I" }
+    ]
+  },
+  {
+    "no": 5,
+    "question": "Generally speaking, with whom do you get along better?",
+    "answerOptions": [
+      { "type": "A", "answer": "Imaginative people", "score": "N" },
+      { "type": "B", "answer": "Practical people", "score": "S" }
+    ]
+  },
+  {
+    "no": 6,
+    "question": "Do you often let",
+    "answerOptions": [
+      {
+        "type": "A",
+        "answer": "Your emotions dominate your reason",
+        "score": "F"
+      },
+      {
+        "type": "B",
+        "answer": "Your reason dominate your emotions",
+        "score": "T"
+      }
+    ]
+  },
+  {
+    "no": 7,
+    "question": "In dealing with many things, you would prefer to",
+    "answerOptions": [
+      { "type": "A", "answer": "Act according to your whims", "score": "P" },
+      { "type": "B", "answer": "Act according to a plan", "score": "J" }
+    ]
+  },
+  {
+    "no": 8,
+    "question": "Are you",
+    "answerOptions": [
+      { "type": "A", "answer": "Easy to understand", "score": "E" },
+      { "type": "B", "answer": "Difficult to understand", "score": "I" }
+    ]
+  },
+  {
+    "no": 9,
+    "question": "Following a schedule",
+    "answerOptions": [
+      { "type": "A", "answer": "Suits you", "score": "J" },
+      { "type": "B", "answer": "Makes you feel constrained", "score": "P" }
+    ]
+  },
+  {
+    "no": 10,
+    "question": "When you have a special task, you would like to",
+    "answerOptions": [
+      {
+        "type": "A",
+        "answer": "Carefully organize and plan before starting",
+        "score": "J"
+      },
+      {
+        "type": "B",
+        "answer": "Figure out what to do as you go along",
+        "score": "P"
+      }
+    ]
+  },
+  {
+    "no": 11,
+    "question": "In most situations, you would choose",
+    "answerOptions": [
+      { "type": "A", "answer": "Let things happen naturally", "score": "P" },
+      { "type": "B", "answer": "Follow a schedule", "score": "J" }
+    ]
+  },
+  {
+    "no": 12,
+    "question": "Most people would say you are a",
+    "answerOptions": [
+      { "type": "A", "answer": "Person who values privacy", "score": "I" },
+      { "type": "B", "answer": "Very open and frank person", "score": "E" }
+    ]
+  },
+  {
+    "no": 13,
+    "question": "You would rather be considered as a",
+    "answerOptions": [
+      { "type": "A", "answer": "Practical person", "score": "S" },
+      { "type": "B", "answer": "Resourceful person", "score": "N" }
+    ]
+  },
+  {
+    "no": 14,
+    "question": "In a large group of people, usually",
+    "answerOptions": [
+      { "type": "A", "answer": "You introduce everyone", "score": "E" },
+      { "type": "B", "answer": "Others introduce you", "score": "I" }
+    ]
+  },
+  {
+    "no": 15,
+    "question": "Whom would you prefer to be friends with?",
+    "answerOptions": [
+      {
+        "type": "A",
+        "answer": "Those who often come up with new ideas",
+        "score": "N"
+      },
+      { "type": "B", "answer": "Those who are down-to-earth", "score": "S" }
+    ]
+  },
+  {
+    "no": 16,
+    "question": "You tend to",
+    "answerOptions": [
+      { "type": "A", "answer": "Value emotions more than logic", "score": "F" },
+      { "type": "B", "answer": "Value logic more than emotions", "score": "T" }
+    ]
+  },
+  {
+    "no": 17,
+    "question": "You would prefer to",
+    "answerOptions": [
+      {
+        "type": "A",
+        "answer": "Make plans after observing how things develop",
+        "score": "P"
+      },
+      { "type": "B", "answer": "Make plans early on", "score": "J" }
+    ]
+  },
+  {
+    "no": 18,
+    "question": "You like to spend a lot of time",
+    "answerOptions": [
+      { "type": "A", "answer": "Alone", "score": "I" },
+      { "type": "B", "answer": "With others", "score": "E" }
+    ]
+  },
+  {
+    "no": 19,
+    "question": "Being with many people",
+    "answerOptions": [
+      { "type": "A", "answer": "Makes you feel energized", "score": "E" },
+      { "type": "B", "answer": "Often makes you feel exhausted", "score": "I" }
+    ]
+  },
+  {
+    "no": 20,
+    "question": "You would prefer to",
+    "answerOptions": [
+      {
+        "type": "A",
+        "answer": "Arrange appointments and social gatherings well in advance",
+        "score": "J"
+      },
+      {
+        "type": "B",
+        "answer": "Be unrestrained and do whatever is fun at the moment",
+        "score": "P"
+      }
+    ]
+  },
+  {
+    "no": 21,
+    "question": "When planning a trip, you prefer to",
+    "answerOptions": [
+      {
+        "type": "A",
+        "answer": "Act according to your feelings on the day for most of the time",
+        "score": "P"
+      },
+      {
+        "type": "B",
+        "answer": "Know in advance what you will do most of the days",
+        "score": "J"
+      }
+    ]
+  },
+  {
+    "no": 22,
+    "question": "At social gatherings, you",
+    "answerOptions": [
+      { "type": "A", "answer": "Sometimes feel depressed", "score": "I" },
+      { "type": "B", "answer": "Often have a great time", "score": "E" }
+    ]
+  },
+  {
+    "no": 23,
+    "question": "You usually",
+    "answerOptions": [
+      { "type": "A", "answer": "Mix easily with others", "score": "E" },
+      { "type": "B", "answer": "Tend to keep to yourself", "score": "I" }
+    ]
+  },
+  {
+    "no": 24,
+    "question": "Which type of people attracts you more?",
+    "answerOptions": [
+      {
+        "type": "A",
+        "answer": "Those who are quick-witted and very intelligent",
+        "score": "N"
+      },
+      {
+        "type": "B",
+        "answer": "Those who are practical and have a wealth of common sense",
+        "score": "S"
+      }
+    ]
+  },
+  {
+    "no": 25,
+    "question": "In your daily work, you would",
+    "answerOptions": [
+      {
+        "type": "A",
+        "answer": "Quite enjoy dealing with emergencies that force you to work against the clock",
+        "score": "P"
+      },
+      {
+        "type": "B",
+        "answer": "Usually plan in advance to avoid working under pressure",
+        "score": "J"
+      }
+    ]
+  },
+  {
+    "no": 26,
+    "question": "You think others generally",
+    "answerOptions": [
+      {
+        "type": "A",
+        "answer": "Take a long time to get to know you",
+        "score": "I"
+      },
+      { "type": "B", "answer": "Get to know you in a short time", "score": "E" }
+    ]
+  },
+  {
+    "no": 27,
+    "question": "In each of the following pairs of words, which one appeals to you more? Carefully consider the meanings of these words and do not be influenced by their shapes or pronunciations.",
+    "answerOptions": [
+      { "type": "A", "answer": "Value privacy", "score": "I" },
+      { "type": "B", "answer": "Be open and frank", "score": "E" }
+    ]
+  },
+  {
+    "no": 28,
+    "question": "In each of the following pairs of words, which one appeals to you more? Carefully consider the meanings of these words and do not be influenced by their shapes or pronunciations.",
+    "answerOptions": [
+      { "type": "A", "answer": "Pre-arranged", "score": "J" },
+      { "type": "B", "answer": "Unplanned", "score": "P" }
+    ]
+  },
+  {
+    "no": 29,
+    "question": "In each of the following pairs of words, which one appeals to you more? Carefully consider the meanings of these words and do not be influenced by their shapes or pronunciations.",
+    "answerOptions": [
+      { "type": "A", "answer": "Abstract", "score": "N" },
+      { "type": "B", "answer": "Concrete", "score": "S" }
+    ]
+  },
+  {
+    "no": 30,
+    "question": "In each of the following pairs of words, which one appeals to you more? Carefully consider the meanings of these words and do not be influenced by their shapes or pronunciations.",
+    "answerOptions": [
+      { "type": "A", "answer": "Gentle", "score": "F" },
+      { "type": "B", "answer": "Firm", "score": "T" }
+    ]
+  },
+  {
+    "no": 31,
+    "question": "In each of the following pairs of words, which one appeals to you more? Carefully consider the meanings of these words and do not be influenced by their shapes or pronunciations.",
+    "answerOptions": [
+      { "type": "A", "answer": "Think", "score": "T" },
+      { "type": "B", "answer": "Feel", "score": "F" }
+    ]
+  },
+  {
+    "no": 32,
+    "question": "In each of the following pairs of words, which one appeals to you more? Carefully consider the meanings of these words and do not be influenced by their shapes or pronunciations.",
+    "answerOptions": [
+      { "type": "A", "answer": "Facts", "score": "S" },
+      { "type": "B", "answer": "Ideas", "score": "N" }
+    ]
+  },
+  {
+    "no": 33,
+    "question": "In each of the following pairs of words, which one appeals to you more? Carefully consider the meanings of these words and do not be influenced by their shapes or pronunciations.",
+    "answerOptions": [
+      { "type": "A", "answer": "Impulsive", "score": "P" },
+      { "type": "B", "answer": "Decisive", "score": "J" }
+    ]
+  },
+  {
+    "no": 34,
+    "question": "In each of the following pairs of words, which one appeals to you more? Carefully consider the meanings of these words and do not be influenced by their shapes or pronunciations.",
+    "answerOptions": [
+      { "type": "A", "answer": "Enthusiastic", "score": "E" },
+      { "type": "B", "answer": "Quiet", "score": "I" }
+    ]
+  },
+  {
+    "no": 35,
+    "question": "In each of the following pairs of words, which one appeals to you more? Carefully consider the meanings of these words and do not be influenced by their shapes or pronunciations.",
+    "answerOptions": [
+      { "type": "A", "answer": "Quiet", "score": "I" },
+      { "type": "B", "answer": "Outgoing", "score": "E" }
+    ]
+  },
+  {
+    "no": 36,
+    "question": "In each of the following pairs of words, which one appeals to you more? Carefully consider the meanings of these words and do not be influenced by their shapes or pronunciations.",
+    "answerOptions": [
+      { "type": "A", "answer": "Systematic", "score": "J" },
+      { "type": "B", "answer": "Random", "score": "P" }
+    ]
+  },
+  {
+    "no": 37,
+    "question": "In each of the following pairs of words, which one appeals to you more? Carefully consider the meanings of these words and do not be influenced by their shapes or pronunciations.",
+    "answerOptions": [
+      { "type": "A", "answer": "Theory", "score": "N" },
+      { "type": "B", "answer": "Certainty", "score": "S" }
+    ]
+  },
+  {
+    "no": 38,
+    "question": "In each of the following pairs of words, which one appeals to you more? Carefully consider the meanings of these words and do not be influenced by their shapes or pronunciations.",
+    "answerOptions": [
+      { "type": "A", "answer": "Sensitive", "score": "F" },
+      { "type": "B", "answer": "Fair", "score": "T" }
+    ]
+  },
+  {
+    "no": 39,
+    "question": "In each of the following pairs of words, which one appeals to you more? Carefully consider the meanings of these words and do not be influenced by their shapes or pronunciations.",
+    "answerOptions": [
+      { "type": "A", "answer": "Convincing", "score": "T" },
+      { "type": "B", "answer": "Touching", "score": "F" }
+    ]
+  },
+  {
+    "no": 40,
+    "question": "In each of the following pairs of words, which one appeals to you more? Carefully consider the meanings of these words and do not be influenced by their shapes or pronunciations.",
+    "answerOptions": [
+      { "type": "A", "answer": "Statement", "score": "S" },
+      { "type": "B", "answer": "Concept", "score": "N" }
+    ]
+  },
+  {
+    "no": 41,
+    "question": "In each of the following pairs of words, which one appeals to you more? Carefully consider the meanings of these words and do not be influenced by their shapes or pronunciations.",
+    "answerOptions": [
+      { "type": "A", "answer": "Unrestrained", "score": "P" },
+      { "type": "B", "answer": "Pre-arranged", "score": "J" }
+    ]
+  },
+  {
+    "no": 42,
+    "question": "In each of the following pairs of words, which one appeals to you more? Carefully consider the meanings of these words and do not be influenced by their shapes or pronunciations.",
+    "answerOptions": [
+      { "type": "A", "answer": "Reserved", "score": "I" },
+      { "type": "B", "answer": "Talkative", "score": "E" }
+    ]
+  },
+  {
+    "no": 43,
+    "question": "In each of the following pairs of words, which one appeals to you more? Carefully consider the meanings of these words and do not be influenced by their shapes or pronunciations.",
+    "answerOptions": [
+      { "type": "A", "answer": "Methodical", "score": "J" },
+      { "type": "B", "answer": "Unconcerned with details", "score": "P" }
+    ]
+  },
+  {
+    "no": 44,
+    "question": "In each of the following pairs of words, which one appeals to you more? Carefully consider the meanings of these words and do not be influenced by their shapes or pronunciations.",
+    "answerOptions": [
+      { "type": "A", "answer": "Ideas", "score": "N" },
+      { "type": "B", "answer": "Facts", "score": "S" }
+    ]
+  },
+  {
+    "no": 45,
+    "question": "In each of the following pairs of words, which one appeals to you more? Carefully consider the meanings of these words and do not be influenced by their shapes or pronunciations.",
+    "answerOptions": [
+      { "type": "A", "answer": "Compassion", "score": "F" },
+      { "type": "B", "answer": "Foresight", "score": "T" }
+    ]
+  },
+  {
+    "no": 46,
+    "question": "In each of the following pairs of words, which one appeals to you more? Carefully consider the meanings of these words and do not be influenced by their shapes or pronunciations.",
+    "answerOptions": [
+      { "type": "A", "answer": "Benefit", "score": "T" },
+      { "type": "B", "answer": "Blessing", "score": "F" }
+    ]
+  },
+  {
+    "no": 47,
+    "question": "In each of the following pairs of words, which one appeals to you more? Carefully consider the meanings of these words and do not be influenced by their shapes or pronunciations.",
+    "answerOptions": [
+      { "type": "A", "answer": "Practical", "score": "S" },
+      { "type": "B", "answer": "Theoretical", "score": "N" }
+    ]
+  },
+  {
+    "no": 48,
+    "question": "In each of the following pairs of words, which one appeals to you more? Carefully consider the meanings of these words and do not be influenced by their shapes or pronunciations.",
+    "answerOptions": [
+      { "type": "A", "answer": "Few friends", "score": "I" },
+      { "type": "B", "answer": "Many friends", "score": "E" }
+    ]
+  },
+  {
+    "no": 49,
+    "question": "In each of the following pairs of words, which one appeals to you more? Carefully consider the meanings of these words and do not be influenced by their shapes or pronunciations.",
+    "answerOptions": [
+      { "type": "A", "answer": "Systematic", "score": "J" },
+      { "type": "B", "answer": "Impromptu", "score": "P" }
+    ]
+  },
+  {
+    "no": 50,
+    "question": "In each of the following pairs of words, which one appeals to you more? Carefully consider the meanings of these words and do not be influenced by their shapes or pronunciations.",
+    "answerOptions": [
+      { "type": "A", "answer": "Imaginative", "score": "N" },
+      { "type": "B", "answer": "Matter-of-fact", "score": "S" }
+    ]
+  },
+  {
+    "no": 51,
+    "question": "In each of the following pairs of words, which one appeals to you more? Carefully consider the meanings of these words and do not be influenced by their shapes or pronunciations.",
+    "answerOptions": [
+      { "type": "A", "answer": "Affectionately", "score": "F" },
+      { "type": "B", "answer": "Objectively", "score": "T" }
+    ]
+  },
+  {
+    "no": 52,
+    "question": "In each of the following pairs of words, which one appeals to you more? Carefully consider the meanings of these words and do not be influenced by their shapes or pronunciations.",
+    "answerOptions": [
+      { "type": "A", "answer": "Objectively", "score": "T" },
+      { "type": "B", "answer": "Passionately", "score": "F" }
+    ]
+  },
+  {
+    "no": 53,
+    "question": "In each of the following pairs of words, which one appeals to you more? Carefully consider the meanings of these words and do not be influenced by their shapes or pronunciations.",
+    "answerOptions": [
+      { "type": "A", "answer": "Build", "score": "S" },
+      { "type": "B", "answer": "Invent", "score": "N" }
+    ]
+  },
+  {
+    "no": 54,
+    "question": "In each of the following pairs of words, which one appeals to you more? Carefully consider the meanings of these words and do not be influenced by their shapes or pronunciations.",
+    "answerOptions": [
+      { "type": "A", "answer": "Quiet", "score": "I" },
+      { "type": "B", "answer": "Sociable", "score": "E" }
+    ]
+  },
+  {
+    "no": 55,
+    "question": "In each of the following pairs of words, which one appeals to you more? Carefully consider the meanings of these words and do not be influenced by their shapes or pronunciations.",
+    "answerOptions": [
+      { "type": "A", "answer": "Theory", "score": "N" },
+      { "type": "B", "answer": "Fact", "score": "S" }
+    ]
+  },
+  {
+    "no": 56,
+    "question": "In each of the following pairs of words, which one appeals to you more? Carefully consider the meanings of these words and do not be influenced by their shapes or pronunciations.",
+    "answerOptions": [
+      { "type": "A", "answer": "Sympathetic", "score": "F" },
+      { "type": "B", "answer": "Logical", "score": "T" }
+    ]
+  },
+  {
+    "no": 57,
+    "question": "For each of the following pairs of words, which word appeals to you more? Please carefully consider the meanings of the words and disregard their shapes or pronunciations.",
+    "answerOptions": [
+      { "type": "A", "answer": "Analytical", "score": "T" },
+      { "type": "B", "answer": "Sentimental", "score": "F" }
+    ]
+  },
+  {
+    "no": 58,
+    "question": "For each of the following pairs of words, which word appeals to you more? Please carefully consider the meanings of the words and disregard their shapes or pronunciations.",
+    "answerOptions": [
+      { "type": "A", "answer": "Reasonable", "score": "S" },
+      { "type": "B", "answer": "Fascinating", "score": "N" }
+    ]
+  },
+  {
+    "no": 59,
+    "question": "When you have to complete a big project within a week, what will you do at the beginning?",
+    "answerOptions": [
+      {
+        "type": "A",
+        "answer": "List the different tasks to be done in order",
+        "score": "J"
+      },
+      { "type": "B", "answer": "Start working immediately", "score": "P" }
+    ]
+  },
+  {
+    "no": 60,
+    "question": "In social situations, you often feel",
+    "answerOptions": [
+      {
+        "type": "A",
+        "answer": "It's hard to start a conversation and keep it going with some people",
+        "score": "I"
+      },
+      {
+        "type": "B",
+        "answer": "You can have a relaxed long conversation with most people",
+        "score": "E"
+      }
+    ]
+  },
+  {
+    "no": 61,
+    "question": "When doing something that many people also do, you prefer",
+    "answerOptions": [
+      {
+        "type": "A",
+        "answer": "To do it according to the generally recognized method",
+        "score": "S"
+      },
+      { "type": "B", "answer": "To come up with your own idea", "score": "N" }
+    ]
+  },
+  {
+    "no": 62,
+    "question": "Can your newly - met friends tell your interests?",
+    "answerOptions": [
+      { "type": "A", "answer": "Right away", "score": "E" },
+      {
+        "type": "B",
+        "answer": "Only after they truly get to know you",
+        "score": "I"
+      }
+    ]
+  },
+  {
+    "no": 63,
+    "question": "The subjects you usually prefer are",
+    "answerOptions": [
+      {
+        "type": "A",
+        "answer": "Those that teach concepts and principles",
+        "score": "N"
+      },
+      { "type": "B", "answer": "Those that teach facts and data", "score": "S" }
+    ]
+  },
+  {
+    "no": 64,
+    "question": "Which is a higher compliment or praise?",
+    "answerOptions": [
+      {
+        "type": "A",
+        "answer": "A consistently emotional person",
+        "score": "F"
+      },
+      { "type": "B", "answer": "A consistently rational person", "score": "T" }
+    ]
+  },
+  {
+    "no": 65,
+    "question": "You think following a schedule",
+    "answerOptions": [
+      {
+        "type": "A",
+        "answer": "Is sometimes necessary, but generally you don't like to do it that way",
+        "score": "P"
+      },
+      {
+        "type": "B",
+        "answer": "Is helpful in most cases and is something you like to do",
+        "score": "J"
+      }
+    ]
+  },
+  {
+    "no": 66,
+    "question": "When you are with a group of people, you usually choose",
+    "answerOptions": [
+      {
+        "type": "A",
+        "answer": "To talk with a few individuals you are very familiar with",
+        "score": "I"
+      },
+      {
+        "type": "B",
+        "answer": "To participate in the group conversation",
+        "score": "E"
+      }
+    ]
+  },
+  {
+    "no": 67,
+    "question": "At social gatherings, you will",
+    "answerOptions": [
+      { "type": "A", "answer": "Be the one who talks a lot", "score": "E" },
+      { "type": "B", "answer": "Let others talk more", "score": "I" }
+    ]
+  },
+  {
+    "no": 68,
+    "question": "The idea of making a list of things to be done during the weekend",
+    "answerOptions": [
+      { "type": "A", "answer": "Appeals to you", "score": "J" },
+      { "type": "B", "answer": "Makes you lose motivation", "score": "P" }
+    ]
+  },
+  {
+    "no": 69,
+    "question": "Which is a higher compliment or praise?",
+    "answerOptions": [
+      { "type": "A", "answer": "Competent", "score": "T" },
+      { "type": "B", "answer": "Compassionate", "score": "F" }
+    ]
+  },
+  {
+    "no": 70,
+    "question": "You usually prefer",
+    "answerOptions": [
+      {
+        "type": "A",
+        "answer": "To arrange your social appointments in advance",
+        "score": "J"
+      },
+      {
+        "type": "B",
+        "answer": "To do things as the mood strikes you",
+        "score": "P"
+      }
+    ]
+  },
+  {
+    "no": 71,
+    "question": "Generally speaking, when doing a big assignment, you will choose",
+    "answerOptions": [
+      {
+        "type": "A",
+        "answer": "To figure out what to do as you go along",
+        "score": "P"
+      },
+      {
+        "type": "B",
+        "answer": "To first break the work down into steps",
+        "score": "J"
+      }
+    ]
+  },
+  {
+    "no": 72,
+    "question": "Can you talk endlessly with others?",
+    "answerOptions": [
+      {
+        "type": "A",
+        "answer": "Only with people who share your interests",
+        "score": "I"
+      },
+      { "type": "B", "answer": "With almost anyone", "score": "E" }
+    ]
+  },
+  {
+    "no": 73,
+    "question": "You will",
+    "answerOptions": [
+      {
+        "type": "A",
+        "answer": "Follow some proven effective methods",
+        "score": "S"
+      },
+      {
+        "type": "B",
+        "answer": "Analyze the data to see what other methods are available",
+        "score": "N"
+      }
+    ]
+  },
+  {
+    "no": 74,
+    "question": "When reading for fun, you will",
+    "answerOptions": [
+      {
+        "type": "A",
+        "answer": "Like unique or innovative ways of expression",
+        "score": "N"
+      },
+      {
+        "type": "B",
+        "answer": "Like the author to speak plainly",
+        "score": "S"
+      }
+    ]
+  },
+  {
+    "no": 75,
+    "question": "You would rather work for which type of boss (or teacher)?",
+    "answerOptions": [
+      {
+        "type": "A",
+        "answer": "One who is kind - hearted but often inconsistent",
+        "score": "F"
+      },
+      {
+        "type": "B",
+        "answer": "One who is sharp - tongued but always logical",
+        "score": "T"
+      }
+    ]
+  },
+  {
+    "no": 76,
+    "question": "Most of the time, you do things",
+    "answerOptions": [
+      {
+        "type": "A",
+        "answer": "According to your mood of the day",
+        "score": "P"
+      },
+      {
+        "type": "B",
+        "answer": "According to a pre - planned schedule",
+        "score": "J"
+      }
+    ]
+  },
+  {
+    "no": 77,
+    "question": "Are you",
+    "answerOptions": [
+      {
+        "type": "A",
+        "answer": "Able to talk comfortably with anyone as needed",
+        "score": "E"
+      },
+      {
+        "type": "B",
+        "answer": "Only able to speak freely with certain people or in certain situations",
+        "score": "I"
+      }
+    ]
+  },
+  {
+    "no": 78,
+    "question": "When making a decision, you think what is more important is",
+    "answerOptions": [
+      {
+        "type": "A",
+        "answer": "Weighing according to the facts",
+        "score": "T"
+      },
+      {
+        "type": "B",
+        "answer": "Considering others' feelings and opinions",
+        "score": "F"
+      }
+    ]
+  },
+  {
+    "no": 79,
+    "question": "For each of the following pairs of words, which word appeals to you more?",
+    "answerOptions": [
+      { "type": "A", "answer": "Imaginative", "score": "N" },
+      { "type": "B", "answer": "Real", "score": "S" }
+    ]
+  },
+  {
+    "no": 80,
+    "question": "For each of the following pairs of words, which word appeals to you more?",
+    "answerOptions": [
+      { "type": "A", "answer": "Benevolent and generous", "score": "F" },
+      { "type": "B", "answer": "Determined", "score": "T" }
+    ]
+  },
+  {
+    "no": 81,
+    "question": "For each of the following pairs of words, which word appeals to you more?",
+    "answerOptions": [
+      { "type": "A", "answer": "Fair", "score": "T" },
+      { "type": "B", "answer": "Caring", "score": "F" }
+    ]
+  },
+  {
+    "no": 82,
+    "question": "For each of the following pairs of words, which word appeals to you more?",
+    "answerOptions": [
+      { "type": "A", "answer": "Making", "score": "S" },
+      { "type": "B", "answer": "Designing", "score": "N" }
+    ]
+  },
+  {
+    "no": 83,
+    "question": "For each of the following pairs of words, which word appeals to you more?",
+    "answerOptions": [
+      { "type": "A", "answer": "Possibility", "score": "N" },
+      { "type": "B", "answer": "Certainty", "score": "S" }
+    ]
+  },
+  {
+    "no": 84,
+    "question": "For each of the following pairs of words, which word appeals to you more?",
+    "answerOptions": [
+      { "type": "A", "answer": "Gentleness", "score": "F" },
+      { "type": "B", "answer": "Strength", "score": "T" }
+    ]
+  },
+  {
+    "no": 85,
+    "question": "For each of the following pairs of words, which word appeals to you more?",
+    "answerOptions": [
+      { "type": "A", "answer": "Practical", "score": "T" },
+      { "type": "B", "answer": "Sentimental", "score": "F" }
+    ]
+  },
+  {
+    "no": 86,
+    "question": "For each of the following pairs of words, which word appeals to you more?",
+    "answerOptions": [
+      { "type": "A", "answer": "Manufacturing", "score": "S" },
+      { "type": "B", "answer": "Creating", "score": "N" }
+    ]
+  },
+  {
+    "no": 87,
+    "question": "For each of the following pairs of words, which word appeals to you more?",
+    "answerOptions": [
+      { "type": "A", "answer": "Novel", "score": "N" },
+      { "type": "B", "answer": "Known", "score": "S" }
+    ]
+  },
+  {
+    "no": 88,
+    "question": "For each of the following pairs of words, which word appeals to you more?",
+    "answerOptions": [
+      { "type": "A", "answer": "Sympathy", "score": "F" },
+      { "type": "B", "answer": "Analysis", "score": "T" }
+    ]
+  },
+  {
+    "no": 89,
+    "question": "For each of the following pairs of words, which word appeals to you more?",
+    "answerOptions": [
+      { "type": "A", "answer": "Assertive", "score": "T" },
+      { "type": "B", "answer": "Gentle and caring", "score": "F" }
+    ]
+  },
+  {
+    "no": 90,
+    "question": "For each of the following pairs of words, which word appeals to you more?",
+    "answerOptions": [
+      { "type": "A", "answer": "Concrete", "score": "S" },
+      { "type": "B", "answer": "Abstract", "score": "N" }
+    ]
+  },
+  {
+    "no": 91,
+    "question": "For each of the following pairs of words, which word appeals to you more?",
+    "answerOptions": [
+      { "type": "A", "answer": "Devotedly", "score": "F" },
+      { "type": "B", "answer": "Determinedly", "score": "T" }
+    ]
+  },
+  {
+    "no": 92,
+    "question": "For each of the following pairs of words, which word appeals to you more?",
+    "answerOptions": [
+      { "type": "A", "answer": "Competent", "score": "T" },
+      { "type": "B", "answer": "Kind - hearted", "score": "F" }
+    ]
+  },
+  {
+    "no": 93,
+    "question": "For each of the following pairs of words, which word appeals to you more?",
+    "answerOptions": [
+      { "type": "A", "answer": "Practical", "score": "S" },
+      { "type": "B", "answer": "Innovative", "score": "N" }
+    ]
+  }
+]

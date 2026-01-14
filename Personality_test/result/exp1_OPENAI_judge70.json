@@ -1,0 +1,1542 @@
+[
+    {
+        "Question": {
+            "no": 1,
+            "question": "At a party do you: ",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Interact with many, including strangers",
+                    "score": "E"
+                },
+                {
+                    "type": "B",
+                    "answer": "Interact with a few, known to you",
+                    "score": "I"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "I/E",
+            "reason": "This question targets social preferences and energy sources, distinguishing between engaging broadly or selectively at a social event."
+        }
+    },
+    {
+        "Question": {
+            "no": 2,
+            "question": "Are you more: ",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Realistic than speculative",
+                    "score": "S"
+                },
+                {
+                    "type": "B",
+                    "answer": "Speculative than realistic",
+                    "score": "N"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "N/S",
+            "reason": "This question contrasts a preference for concrete, real-world details (realistic) versus abstract, theoretical possibilities (speculative), aligning with the N/S dimension."
+        }
+    },
+    {
+        "Question": {
+            "no": 3,
+            "question": "Is it worse to: ",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Have your “head in the clouds”",
+                    "score": "S"
+                },
+                {
+                    "type": "B",
+                    "answer": "Be “in a rut”",
+                    "score": "N"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "N/S",
+            "reason": "This question contrasts abstract thinking (\"head in the clouds\") with a focus on routine (\"in a rut\"), aligning with the N/S dimension of information processing style."
+        }
+    },
+    {
+        "Question": {
+            "no": 4,
+            "question": "Are you more impressed by: ",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Principles",
+                    "score": "T"
+                },
+                {
+                    "type": "B",
+                    "answer": "Emotions",
+                    "score": "F"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "T/F",
+            "reason": "This question distinguishes between decision-making based on objective principles (Thinking) versus subjective emotions (Feeling)."
+        }
+    },
+    {
+        "Question": {
+            "no": 5,
+            "question": "Are more drawn toward the: ",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Convincing",
+                    "score": "T"
+                },
+                {
+                    "type": "B",
+                    "answer": "Touching",
+                    "score": "F"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "T/F",
+            "reason": "The question distinguishes between using logic to convince (Thinking) versus emotionally touching (Feeling) in interactions."
+        }
+    },
+    {
+        "Question": {
+            "no": 6,
+            "question": "Do you prefer to work: ",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "To deadlines",
+                    "score": "J"
+                },
+                {
+                    "type": "B",
+                    "answer": "Just “whenever”",
+                    "score": "P"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "J/P",
+            "reason": "This question assesses behavioral patterns related to planning (deadlines) versus flexibility (whenever), aligning with the J/P dimension."
+        }
+    },
+    {
+        "Question": {
+            "no": 7,
+            "question": "Do you tend to choose: ",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Rather carefully",
+                    "score": "J"
+                },
+                {
+                    "type": "B",
+                    "answer": "Somewhat impulsively",
+                    "score": "P"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "J/P",
+            "reason": "This question contrasts careful planning with impulsive actions, relating to attitudes towards the external world, highlighting the J/P dimension of structured versus spontaneous behavior."
+        }
+    },
+    {
+        "Question": {
+            "no": 8,
+            "question": "At parties do you: ",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Stay late, with increasing energy",
+                    "score": "E"
+                },
+                {
+                    "type": "B",
+                    "answer": "Leave early with decreased energy",
+                    "score": "I"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "I/E",
+            "reason": "This question focuses on social energy dynamics (staying late with increasing energy vs. leaving early with decreased energy), which relates to the I/E dimension."
+        }
+    },
+    {
+        "Question": {
+            "no": 9,
+            "question": "Are you more attracted to: ",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Sensible people",
+                    "score": "S"
+                },
+                {
+                    "type": "B",
+                    "answer": "Imaginative people",
+                    "score": "N"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "N/S",
+            "reason": "This question differentiates between a preference for concrete, practical details (Sensing) and abstract, conceptual thinking (Intuition)."
+        }
+    },
+    {
+        "Question": {
+            "no": 10,
+            "question": "Are you more interested in: ",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "What is actual",
+                    "score": "S"
+                },
+                {
+                    "type": "B",
+                    "answer": "What is possible",
+                    "score": "N"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "N/S",
+            "reason": "This question distinguishes between a preference for concrete, real-world details (Sensing) and abstract, potential possibilities (Intuition)."
+        }
+    },
+    {
+        "Question": {
+            "no": 11,
+            "question": "In judging others are you more swayed by: ",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Laws than circumstances",
+                    "score": "T"
+                },
+                {
+                    "type": "B",
+                    "answer": "Circumstances than laws",
+                    "score": "F"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "T/F",
+            "reason": "This question involves decision-making criteria, focusing on objective logic (laws) versus subjective emotion (circumstances), aligning with the Thinking/Feeling dimension."
+        }
+    },
+    {
+        "Question": {
+            "no": 12,
+            "question": "In approaching others is your inclination to be somewhat: ",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Objective",
+                    "score": "T"
+                },
+                {
+                    "type": "B",
+                    "answer": "Personal",
+                    "score": "F"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "T/F",
+            "reason": "This question deals with decision-making logic, contrasting objective logic (Thinking) and personal, emotional approach (Feeling)."
+        }
+    },
+    {
+        "Question": {
+            "no": 13,
+            "question": "Are you more: ",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Punctual",
+                    "score": "J"
+                },
+                {
+                    "type": "B",
+                    "answer": "Leisurely",
+                    "score": "P"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "J/P",
+            "reason": "This question assesses attitudes toward time management and structure (punctuality) versus flexibility and spontaneity (leisurely), aligning with the J/P dimension."
+        }
+    },
+    {
+        "Question": {
+            "no": 14,
+            "question": "Does it bother you more having things: ",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Incomplete",
+                    "score": "J"
+                },
+                {
+                    "type": "B",
+                    "answer": "Completed",
+                    "score": "P"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "J/P",
+            "reason": "This addresses attitudes toward completion of tasks, contrasting a preference for structured completion (J) versus comfort with open-endedness (P)."
+        }
+    },
+    {
+        "Question": {
+            "no": 15,
+            "question": "In your social groups do you: ",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Keep abreast of other’s happenings",
+                    "score": "E"
+                },
+                {
+                    "type": "B",
+                    "answer": "Get behind on the news",
+                    "score": "I"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "I/E",
+            "reason": "This question examines social engagement preferences, focusing on how individuals manage social information, which aligns with the Introversion/Extroversion dimension."
+        }
+    },
+    {
+        "Question": {
+            "no": 16,
+            "question": "In doing ordinary things are you more likely to: ",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Do it the usual way",
+                    "score": "S"
+                },
+                {
+                    "type": "B",
+                    "answer": "Do it your own way",
+                    "score": "N"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "J/P",
+            "reason": "This question contrasts conventional methods versus personal methods, reflecting structured versus spontaneous behavior, which aligns with the J/P dimension."
+        }
+    },
+    {
+        "Question": {
+            "no": 17,
+            "question": "Writers should: ",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "“Say what they mean and mean what they say”",
+                    "score": "S"
+                },
+                {
+                    "type": "B",
+                    "answer": "Express things more by use of analogy",
+                    "score": "N"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "N/S",
+            "reason": "This question contrasts direct, literal communication (S) with the use of abstract, metaphorical language (N)."
+        }
+    },
+    {
+        "Question": {
+            "no": 18,
+            "question": "Which appeals to you more: ",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Consistency of thought",
+                    "score": "T"
+                },
+                {
+                    "type": "B",
+                    "answer": "Harmonious human relationships",
+                    "score": "F"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "T/F",
+            "reason": "The question contrasts logical consistency (Thinking) with valuing interpersonal harmony (Feeling), aligning with the decision-making logic core of the T/F dimension."
+        }
+    },
+    {
+        "Question": {
+            "no": 19,
+            "question": "Are you more comfortable in making: ",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Logical judgments",
+                    "score": "T"
+                },
+                {
+                    "type": "B",
+                    "answer": "Value judgments",
+                    "score": "F"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "T/F",
+            "reason": "This question contrasts decision-making based on objective logic versus subjective values, aligning with the Thinking/Feeling dimension."
+        }
+    },
+    {
+        "Question": {
+            "no": 20,
+            "question": "Do you want things: ",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Settled and decided",
+                    "score": "J"
+                },
+                {
+                    "type": "B",
+                    "answer": "Unsettled and undecided",
+                    "score": "P"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "J/P",
+            "reason": "This question compares a preference for settled (structured) versus unsettled (flexible) situations, aligning with the J/P dimension that focuses on planning versus spontaneity."
+        }
+    },
+    {
+        "Question": {
+            "no": 21,
+            "question": "Would you say you are more: ",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Serious and determined",
+                    "score": "J"
+                },
+                {
+                    "type": "B",
+                    "answer": "Easy-going",
+                    "score": "P"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "J/P",
+            "reason": "The question evaluates behavioral attitudes towards external situations, contrasting a structured (serious and determined) approach with a flexible (easy-going) one, aligning with J/P characteristics."
+        }
+    },
+    {
+        "Question": {
+            "no": 22,
+            "question": "In phoning do you: ",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "Rarely question that it will all be said",
+                    "score": "E"
+                },
+                {
+                    "type": "B",
+                    "answer": "Rehearse what you’ll say",
+                    "score": "I"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "J/P",
+            "reason": "This question contrasts planning (rehearsing what to say) and being spontaneous (not questioning what will be said), aligning with the J/P dimension."
+        }
+    },
+    {
+        "Question": {
+            "no": 23,
+            "question": "Facts: ",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "“Speak for themselves”",
+                    "score": "S"
+                },
+                {
+                    "type": "B",
+                    "answer": "Illustrate principles",
+                    "score": "N"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "N/S",
+            "reason": "The question contrasts handling facts as standalone elements versus using them to illustrate broader principles, aligning with information processing styles: concrete (Sensing) versus abstract (Intuition)."
+        }
+    },
+    {
+        "Question": {
+            "no": 24,
+            "question": "Are visionaries: ",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "somewhat annoying",
+                    "score": "S"
+                },
+                {
+                    "type": "B",
+                    "answer": "rather fascinating",
+                    "score": "N"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "N/S",
+            "reason": "The question contrasts perceptions of visionaries, focusing on abstract ideas (visionary concepts) versus concrete annoyance or fascination, aligning with the N/S dimension."
+        }
+    },
+    {
+        "Question": {
+            "no": 25,
+            "question": "Are you more often: ",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "a cool-headed person",
+                    "score": "T"
+                },
+                {
+                    "type": "B",
+                    "answer": "a warm-hearted person",
+                    "score": "F"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "T/F",
+            "reason": "This question contrasts decision-making based on logical detachment (cool-headed) versus emotional connection (warm-hearted), aligning with the Thinking/Feeling dimension."
+        }
+    },
+    {
+        "Question": {
+            "no": 26,
+            "question": "Is it worse to be: ",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "unjust",
+                    "score": "T"
+                },
+                {
+                    "type": "B",
+                    "answer": "merciless",
+                    "score": "F"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "T/F",
+            "reason": "This question deals with decision-making logic, comparing values of fairness (unjust) versus compassion (merciless)."
+        }
+    },
+    {
+        "Question": {
+            "no": 27,
+            "question": "Should one usually let events occur: ",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "by careful selection and choice",
+                    "score": "J"
+                },
+                {
+                    "type": "B",
+                    "answer": "randomly and by chance",
+                    "score": "P"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "J/P",
+            "reason": "The question contrasts careful planning (Judging) with allowing randomness (Perceiving), directly addressing attitudes towards planning vs. flexibility in the external world."
+        }
+    },
+    {
+        "Question": {
+            "no": 28,
+            "question": "Do you feel better about: ",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "having purchased",
+                    "score": "J"
+                },
+                {
+                    "type": "B",
+                    "answer": "having the option to buy",
+                    "score": "P"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "J/P",
+            "reason": "This question contrasts a preference for definitive action (purchase) versus maintaining open possibilities (option to buy), aligning with the Judging (decisive) versus Perceiving (keeping options open) characteristics."
+        }
+    },
+    {
+        "Question": {
+            "no": 29,
+            "question": "In company do you: ",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "initiate conversation",
+                    "score": "E"
+                },
+                {
+                    "type": "B",
+                    "answer": "wait to be approached",
+                    "score": "I"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "I/E",
+            "reason": "This question addresses social preferences, focusing on whether individuals prefer to initiate conversations or wait, reflecting their energy direction and social interaction style."
+        }
+    },
+    {
+        "Question": {
+            "no": 30,
+            "question": "Common sense is: ",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "rarely questionable",
+                    "score": "S"
+                },
+                {
+                    "type": "B",
+                    "answer": "frequently questionable",
+                    "score": "N"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "N/S",
+            "reason": "This question involves how individuals perceive and evaluate common knowledge, focusing on either acceptance of concrete, widely accepted facts (Sensing) or questioning and abstract analysis (Intuition)."
+        }
+    },
+    {
+        "Question": {
+            "no": 31,
+            "question": "Children often do not: ",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "make themselves useful enough",
+                    "score": "S"
+                },
+                {
+                    "type": "B",
+                    "answer": "exercise their fantasy enough",
+                    "score": "N"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "N/S",
+            "reason": "This question distinguishes between focusing on practical usefulness (Sensing) and engaging in imaginative activities (Intuition)."
+        }
+    },
+    {
+        "Question": {
+            "no": 32,
+            "question": "In making decisions do you feel more comfortable with: ",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "standards",
+                    "score": "T"
+                },
+                {
+                    "type": "B",
+                    "answer": "feelings",
+                    "score": "F"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "T/F",
+            "reason": "The question compares decision-making based on objective standards versus personal feelings, aligning with the Thinking/Feeling dimension."
+        }
+    },
+    {
+        "Question": {
+            "no": 33,
+            "question": "Are you more: ",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "firm than gentle",
+                    "score": "T"
+                },
+                {
+                    "type": "B",
+                    "answer": "gentle than firm",
+                    "score": "F"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "T/F",
+            "reason": "This question contrasts decision-making logic based on objective logic (firm) versus subjective emotion (gentle), aligning with the Thinking/Feeling dimension."
+        }
+    },
+    {
+        "Question": {
+            "no": 34,
+            "question": "Which is more admirable: ",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "the ability to organize and be methodical",
+                    "score": "J"
+                },
+                {
+                    "type": "B",
+                    "answer": "the ability to adapt and make do",
+                    "score": "P"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "J/P",
+            "reason": "The question contrasts organizational skills and adaptability, aligning with the J/P dimension’s focus on planning versus flexibility."
+        }
+    },
+    {
+        "Question": {
+            "no": 35,
+            "question": "Do you put more value on: ",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "infinite",
+                    "score": "J"
+                },
+                {
+                    "type": "B",
+                    "answer": "open-minded",
+                    "score": "P"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "N/S",
+            "reason": "This question contrasts abstract, theoretical concept (infinite) with a practical, experiential approach (open-minded), aligning with the N/S dimension."
+        }
+    },
+    {
+        "Question": {
+            "no": 36,
+            "question": "Does new and non-routine interaction with others: ",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "stimulate and energize you",
+                    "score": "E"
+                },
+                {
+                    "type": "B",
+                    "answer": "tax your reserves",
+                    "score": "I"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "I/E",
+            "reason": "This question involves social interaction and energy source (stimulation from external interaction vs. drained by it), aligning with the I/E dimension."
+        }
+    },
+    {
+        "Question": {
+            "no": 37,
+            "question": "Are you more frequently: ",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "a practical sort of person",
+                    "score": "S"
+                },
+                {
+                    "type": "B",
+                    "answer": "a fanciful sort of person",
+                    "score": "N"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "N/S",
+            "reason": "This question contrasts a preference for practical, realistic details (Sensing) versus imaginative, abstract thinking (Intuition)."
+        }
+    },
+    {
+        "Question": {
+            "no": 38,
+            "question": "Are you more likely to: ",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "see how others are useful",
+                    "score": "S"
+                },
+                {
+                    "type": "B",
+                    "answer": "see how others see",
+                    "score": "N"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "T/F",
+            "reason": "This question distinguishes between a logical/utilitarian approach (seeing the usefulness of others) and an empathetic/relational approach (concerned with others' perceptions), aligning with the Thinking/Feeling dimension."
+        }
+    },
+    {
+        "Question": {
+            "no": 39,
+            "question": "Which is more satisfying: ",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "to discuss an issue thoroughly",
+                    "score": "T"
+                },
+                {
+                    "type": "B",
+                    "answer": "to arrive at agreement on an issue",
+                    "score": "F"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "T/F",
+            "reason": "This question distinguishes between a focus on logical analysis (discussing an issue thoroughly) and interpersonal harmony (arriving at an agreement), which aligns with the Thinking/Feeling dimension."
+        }
+    },
+    {
+        "Question": {
+            "no": 40,
+            "question": "Which rules you more: ",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "your head",
+                    "score": "T"
+                },
+                {
+                    "type": "B",
+                    "answer": "your heart",
+                    "score": "F"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "T/F",
+            "reason": "This question distinguishes between decision-making based on logic (head) or emotions (heart), aligning with the Thinking/Feeling dimension."
+        }
+    },
+    {
+        "Question": {
+            "no": 41,
+            "question": "Are you more comfortable with work that is: ",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "contracted",
+                    "score": "J"
+                },
+                {
+                    "type": "B",
+                    "answer": "done on a casual basis",
+                    "score": "P"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "J/P",
+            "reason": "The question contrasts structured (contracted) versus spontaneous (casual) work preferences, aligning with the J/P dimension focusing on organizational style and attitude toward external structures."
+        }
+    },
+    {
+        "Question": {
+            "no": 42,
+            "question": "Do you tend to look for: ",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "the orderly",
+                    "score": "J"
+                },
+                {
+                    "type": "B",
+                    "answer": "whatever turns up",
+                    "score": "P"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "J/P",
+            "reason": "This question reflects attitudes toward the outside world (J/P dimension) by comparing planning and flexibility."
+        }
+    },
+    {
+        "Question": {
+            "no": 43,
+            "question": "Do you prefer: ",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "many friends with brief contact",
+                    "score": "E"
+                },
+                {
+                    "type": "B",
+                    "answer": "a few friends with more lengthy contact",
+                    "score": "I"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "I/E",
+            "reason": "This question explores social preferences, focusing on the quantity of friends and depth of interaction, which aligns with the I/E dimension of energy direction and social interaction style."
+        }
+    },
+    {
+        "Question": {
+            "no": 44,
+            "question": "Do you go more by: ",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "facts",
+                    "score": "S"
+                },
+                {
+                    "type": "B",
+                    "answer": "principles",
+                    "score": "N"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "T/F",
+            "reason": "This question compares decision-making based on objective facts versus subjective principles, aligning with the Thinking/Feeling dimension."
+        }
+    },
+    {
+        "Question": {
+            "no": 45,
+            "question": "Are you more interested in: ",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "production and distribution",
+                    "score": "S"
+                },
+                {
+                    "type": "B",
+                    "answer": "design and research",
+                    "score": "N"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "N/S",
+            "reason": "This question differentiates between a focus on practical, tangible aspects (production and distribution) and abstract, theoretical aspects (design and research), aligning with the N/S dimension."
+        }
+    },
+    {
+        "Question": {
+            "no": 46,
+            "question": "Which is more of a compliment: ",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "“There is a very logical person”",
+                    "score": "T"
+                },
+                {
+                    "type": "B",
+                    "answer": "“There is a very sentimental person”",
+                    "score": "F"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "T/F",
+            "reason": "This question reflects decision-making logic by comparing objective logic (Thinking) and subjective emotion (Feeling)."
+        }
+    },
+    {
+        "Question": {
+            "no": 47,
+            "question": "Do you value in yourself more that you are: ",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "unwavering",
+                    "score": "T"
+                },
+                {
+                    "type": "B",
+                    "answer": "devoted",
+                    "score": "F"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "T/F",
+            "reason": "The question contrasts personal values of logic and steadfastness (unwavering) versus interpersonal connection and loyalty (devoted), aligning with the Thinking/Feeling dimension."
+        }
+    },
+    {
+        "Question": {
+            "no": 48,
+            "question": "Do you more often prefer the ",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "final and unalterable statement",
+                    "score": "J"
+                },
+                {
+                    "type": "B",
+                    "answer": "tentative and preliminary statement",
+                    "score": "P"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "J/P",
+            "reason": "The question contrasts a preference for finality (structured, decisive) versus openness to change (flexible, adaptable), aligning with the J/P dimension focusing on attitudes toward external structure and adaptability."
+        }
+    },
+    {
+        "Question": {
+            "no": 49,
+            "question": "Are you more comfortable: ",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "after a decision",
+                    "score": "J"
+                },
+                {
+                    "type": "B",
+                    "answer": "before a decision",
+                    "score": "P"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "J/P",
+            "reason": "This question explores comfort levels in relation to decision-making status, contrasting pre-decision (open options) with post-decision (commitment), aligning with the Judging (planning/decisiveness) vs. Perceiving (flexibility/openness) dimension."
+        }
+    },
+    {
+        "Question": {
+            "no": 50,
+            "question": "Do you: ",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "speak easily and at length with strangers",
+                    "score": "E"
+                },
+                {
+                    "type": "B",
+                    "answer": "find little to say to strangers",
+                    "score": "I"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "I/E",
+            "reason": "This question addresses social preferences and interaction style with strangers, focusing on energy expression and social comfort, which are key characteristics of the I/E dimension."
+        }
+    },
+    {
+        "Question": {
+            "no": 51,
+            "question": "Are you more likely to trust your: ",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "experience",
+                    "score": "S"
+                },
+                {
+                    "type": "B",
+                    "answer": "hunch",
+                    "score": "N"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "N/S",
+            "reason": "This question distinguishes between relying on concrete, past experiences (Sensing) and abstract, intuitive feelings (Intuition)."
+        }
+    },
+    {
+        "Question": {
+            "no": 52,
+            "question": "Do you feel: ",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "more practical than ingenious",
+                    "score": "S"
+                },
+                {
+                    "type": "B",
+                    "answer": "more ingenious than practical",
+                    "score": "N"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "N/S",
+            "reason": "This question contrasts practicality with ingenuity, aligning with the Sensing/Intuition dimension by comparing concrete, practical details versus abstract, inventive ideas."
+        }
+    },
+    {
+        "Question": {
+            "no": 53,
+            "question": "Which person is more to be complimented – one of: ",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "clear reason",
+                    "score": "T"
+                },
+                {
+                    "type": "B",
+                    "answer": "strong feeling",
+                    "score": "F"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "T/F",
+            "reason": "This question contrasts decision-making based on objective logic (clear reason) versus subjective emotions (strong feeling), aligning with the Thinking/Feeling dimension."
+        }
+    },
+    {
+        "Question": {
+            "no": 54,
+            "question": "Are you inclined more to be: ",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "fair-minded",
+                    "score": "T"
+                },
+                {
+                    "type": "B",
+                    "answer": "sympathetic",
+                    "score": "F"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "T/F",
+            "reason": "The question contrasts decision-making based on objective fairness (Thinking) versus subjective empathy (Feeling), aligning with the T/F dimension."
+        }
+    },
+    {
+        "Question": {
+            "no": 55,
+            "question": "Is it preferable mostly to: ",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "make sure things are arranged",
+                    "score": "J"
+                },
+                {
+                    "type": "B",
+                    "answer": "just let things happen",
+                    "score": "P"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "J/P",
+            "reason": "The question contrasts structured planning with allowing spontaneity, aligning with the J/P dimension which focuses on behavioral patterns towards planning and flexibility."
+        }
+    },
+    {
+        "Question": {
+            "no": 56,
+            "question": "In relationships should most things be: ",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "re-negotiable",
+                    "score": "J"
+                },
+                {
+                    "type": "B",
+                    "answer": "random and circumstantial",
+                    "score": "P"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "J/P",
+            "reason": "This question contrasts attitudes toward planning and adapting in relationships, reflecting the J/P dimension by comparing structured renegotiation and spontaneous circumstances."
+        }
+    },
+    {
+        "Question": {
+            "no": 57,
+            "question": "When the phone rings do you: ",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "hasten to get to it first",
+                    "score": "E"
+                },
+                {
+                    "type": "B",
+                    "answer": "hope someone else will answer",
+                    "score": "I"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "I/E",
+            "reason": "This question addresses social preferences regarding phone interaction, highlighting energy sources and expression styles related to introversion or extroversion."
+        }
+    },
+    {
+        "Question": {
+            "no": 58,
+            "question": "Do you prize more in yourself: ",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "a strong sense of reality",
+                    "score": "S"
+                },
+                {
+                    "type": "B",
+                    "answer": "a vivid imagination",
+                    "score": "N"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "N/S",
+            "reason": "The question contrasts a focus on concrete, present facts (Sensing) versus abstract, imaginative concepts (Intuition)."
+        }
+    },
+    {
+        "Question": {
+            "no": 59,
+            "question": "Are you drawn more to: ",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "fundamentals",
+                    "score": "S"
+                },
+                {
+                    "type": "B",
+                    "answer": "overtones",
+                    "score": "N"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "N/S",
+            "reason": "This question addresses how one processes information: focusing on concrete basics (Sensing) versus abstract implications (Intuition)."
+        }
+    },
+    {
+        "Question": {
+            "no": 60,
+            "question": "Which seems the greater error: ",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "to be too passionate",
+                    "score": "T"
+                },
+                {
+                    "type": "B",
+                    "answer": "to be too objective",
+                    "score": "F"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "T/F",
+            "reason": "This question contrasts decision-making based on objective logic versus subjective emotion, aligning with the Thinking/Feeling dimension."
+        }
+    },
+    {
+        "Question": {
+            "no": 61,
+            "question": "Do you see yourself as basically: ",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "hard-headed",
+                    "score": "T"
+                },
+                {
+                    "type": "B",
+                    "answer": "soft-hearted",
+                    "score": "F"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "T/F",
+            "reason": "This question explores decision-making logic by contrasting rationality (hard-headed) with emotionality (soft-hearted)."
+        }
+    },
+    {
+        "Question": {
+            "no": 62,
+            "question": "Which situation appeals to you more: ",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "the structured and scheduled",
+                    "score": "J"
+                },
+                {
+                    "type": "B",
+                    "answer": "the unstructured and unscheduled",
+                    "score": "P"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "J/P",
+            "reason": "This question contrasts preferences for structured versus unstructured settings, reflecting attitudes toward planning and flexibility, which aligns with the J/P dimension."
+        }
+    },
+    {
+        "Question": {
+            "no": 63,
+            "question": "Are you a person that is more: ",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "routinized than whimsical",
+                    "score": "J"
+                },
+                {
+                    "type": "B",
+                    "answer": "whimsical than routinized",
+                    "score": "P"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "J/P",
+            "reason": "This question compares attitudes towards structure versus spontaneity, aligning with the J/P dimension which focuses on planning versus flexibility."
+        }
+    },
+    {
+        "Question": {
+            "no": 64,
+            "question": "Are you more inclined to be: ",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "easy to approach",
+                    "score": "E"
+                },
+                {
+                    "type": "B",
+                    "answer": "somewhat reserved",
+                    "score": "I"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "I/E",
+            "reason": "This question addresses social preferences, focusing on whether an individual is outwardly engaging (easy to approach) or inwardly reserved, aligning with the Introversion/Extroversion dimension."
+        }
+    },
+    {
+        "Question": {
+            "no": 65,
+            "question": "In writings do you prefer: ",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "the more literal",
+                    "score": "S"
+                },
+                {
+                    "type": "B",
+                    "answer": "the more figurative",
+                    "score": "N"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "N/S",
+            "reason": "This question involves preference between concrete details (literal) and abstract concepts (figurative), aligning with the N/S dimension (Intuition/Sensing)."
+        }
+    },
+    {
+        "Question": {
+            "no": 66,
+            "question": "Is it harder for you to: ",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "identify with others",
+                    "score": "S"
+                },
+                {
+                    "type": "B",
+                    "answer": "utilize others",
+                    "score": "N"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "T/F",
+            "reason": "This question involves decision-making logic focusing on interpersonal relations (empathy vs. utility), which pertains to the T/F dimension."
+        }
+    },
+    {
+        "Question": {
+            "no": 67,
+            "question": "Which do you wish more for yourself: ",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "clarity of reason",
+                    "score": "T"
+                },
+                {
+                    "type": "B",
+                    "answer": "strength of compassion",
+                    "score": "F"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "T/F",
+            "reason": "This question contrasts using objective logic (clarity of reason) versus subjective emotion (strength of compassion) in decision-making, aligning it with the T/F dimension."
+        }
+    },
+    {
+        "Question": {
+            "no": 68,
+            "question": "Which is the greater fault: ",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "being indiscriminate",
+                    "score": "T"
+                },
+                {
+                    "type": "B",
+                    "answer": "being critical",
+                    "score": "F"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "T/F",
+            "reason": "The question involves evaluating faults based on subjective values (empathy or fairness), aligning with the Thinking/Feeling dimension as it deals with decision-making logic and value orientation."
+        }
+    },
+    {
+        "Question": {
+            "no": 69,
+            "question": "Do you prefer the: ",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "planned event",
+                    "score": "J"
+                },
+                {
+                    "type": "B",
+                    "answer": "unplanned event",
+                    "score": "P"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "J/P",
+            "reason": "This question reflects attitudes toward the outside world (J/P dimension) by comparing planning and flexibility."
+        }
+    },
+    {
+        "Question": {
+            "no": 70,
+            "question": "Do you tend to be more: ",
+            "answerOptions": [
+                {
+                    "type": "A",
+                    "answer": "deliberate than spontaneous",
+                    "score": "J"
+                },
+                {
+                    "type": "B",
+                    "answer": "spontaneous than deliberate",
+                    "score": "P"
+                }
+            ]
+        },
+        "Answers": {
+            "dimension": "J/P",
+            "reason": "This question compares deliberate (structured, planned) and spontaneous (flexible, impromptu) behavior, aligning with the J/P dimension about attitudes toward external world organization."
+        }
+    }
+]

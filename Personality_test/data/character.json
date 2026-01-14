@@ -1,0 +1,18 @@
+[
+  { "name": "Sean Astin", "gender": "male", "age": "25" },
+  { "name": "Kathy Bates", "gender": "female", "age": "41" },
+  { "name": "LeVar Burton", "gender": "male", "age": "50" },
+  { "name": "Keith Carradine", "gender": "male", "age": "38" },
+  { "name": "Nathan Fillion", "gender": "male", "age": "35" },
+  { "name": "Summer Glau", "gender": "female", "age": "26" },
+  { "name": "Judy Greer", "gender": "female", "age": "18" },
+  { "name": "Courtney Henggeler", "gender": "male", "age": "33" },
+  { "name": "Joe Manganiello", "gender": "male", "age": "45" },
+  { "name": "Danica McKellar", "gender": "female", "age": "42" },
+  { "name": "Kal Penn", "gender": "male", "age": "28" },
+  { "name": "Katee Sackhoff", "gender": "female", "age": "40" },
+  { "name": "Octavia Spencer", "gender": "female", "age": "39" },
+  { "name": "June Squibb", "gender": "female", "age": "51" },
+  { "name": "Analeigh Tipton", "gender": "female", "age": "19" },
+  { "name": "Kevin Smith", "gender": "male", "age": "22" }
+]
