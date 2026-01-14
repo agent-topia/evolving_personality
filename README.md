@@ -73,7 +73,7 @@ The framework has been validated on several mainstream LLMs including GPT, Llama
 ### 1. Clone the repository
 
 ```bash
-git clone -b main http://codefever.personaworld.net/esportswulei/evolving_personality.git
+git clone -b main https://github.com/agent-topia/evolving_personality.git
 cd evolving_personality
 ```
 
