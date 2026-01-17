@@ -16,6 +16,9 @@ JPAF is a Jungian psychology–based framework designed to equip large language 
 
 The framework has been validated on several mainstream LLMs including GPT, Llama, and Qwen, demonstrating strong performance in MBTI personality alignment, type activation, and personality evolution. It provides an interpretable and controllable personality modeling approach for human–computer interaction (HCI), personalized assistants, social simulations, and related applications.
 
+## 🎉 News
+•**Jan 16, 2026: 🎉 Our paper [Structured Personality Control and Adaptation for LLM Agents](https://arxiv.org/abs/2601.10025) has been uploaded to arXiv**.
+
 ## ✨ Key Features
 
 🎭 **Psychologically Grounded Modeling**: Based on Jung's eight psychological types, with fine-grained personality expression via weighted type differentiation.
@@ -282,3 +285,16 @@ Required arguments
 ## 🤝 Acknowledgments
 
 <a href="https://faculty.hdu.edu.cn/jsjxy/yyy2/main.htm"><img src="assets/hdu.jpg" height=50pt></a><a href="https://www.agentopia.cn/"><img src="assets/main.png" height=50pt></a>&nbsp;&nbsp;
+
+## 🔎 Citation
+```
+@misc{wang2026structuredpersonalitycontroladaptation,
+      title={Structured Personality Control and Adaptation for LLM Agents}, 
+      author={Jinpeng Wang and Xinyu Jia and Wei Wei Heng and Yuquan Li and Binbin Shi and Qianlei Chen and Guannan Chen and Junxia Zhang and Yuyu Yin},
+      year={2026},
+      eprint={2601.10025},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2601.10025}, 
+}
+```

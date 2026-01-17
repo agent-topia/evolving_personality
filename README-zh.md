@@ -16,6 +16,10 @@ JPAF是一个基于荣格心理学类型理论的框架，旨在为大型语言�
 
 本框架已在 GPT、Llama、Qwen 等多个主流 LLM 上验证，在 MBTI 人格对齐、类型激活与人格演化等方面表现优异，为人机交互（HCI）、个性化助手、社交模拟等场景提供了可解释、可控制的人格建模方案。
 
+## 🎉 News
+• **2026-01-16：我们的论文 [Structured Personality Control and Adaptation for LLM Agents](https://arxiv.org/abs/2601.10025) 已上传至 arXiv。**
+
+
 ## ✨ 核心特性
 
 🎭 **心理学基础建模**：基于荣格八种心理类型，通过权重分配实现人格的细粒度表达。
@@ -276,3 +280,16 @@ temp_weight : {'Ti': 0, 'Fi': 0, 'Te': 0, 'Fe': 0, 'Ni': 0, 'Si': 0.06, 'Ne': 0,
 ## 🤝 致谢
 
 <a href="https://faculty.hdu.edu.cn/jsjxy/yyy2/main.htm"><img src="assets/hdu.jpg" height=50pt></a><a href="https://www.agentopia.cn/"><img src="assets/main.png" height=50pt></a>&nbsp;&nbsp;
+
+## 🔎 Citation
+```
+@misc{wang2026structuredpersonalitycontroladaptation,
+    title={Structured Personality Control and Adaptation for LLM Agents}, 
+    author={Jinpeng Wang and Xinyu Jia and Wei Wei Heng and Yuquan Li and Binbin Shi and Qianlei Chen and Guannan Chen and Junxia Zhang and Yuyu Yin},
+    year={2026},
+    eprint={2601.10025},
+    archivePrefix={arXiv},
+    primaryClass={cs.AI},
+    url={https://arxiv.org/abs/2601.10025}, 
+}
+```
