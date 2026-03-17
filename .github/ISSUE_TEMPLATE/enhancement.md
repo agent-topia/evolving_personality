@@ -2,5 +2,9 @@
 name: "✨ enhancement"
 about: enhancement template
 title: 'enhancement: '
-labels: 'enhancement'
+labels: enhancement
+assignees: ''
+
 ---
+
+
