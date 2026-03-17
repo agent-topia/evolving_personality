@@ -1,0 +1,12 @@
+name: "✨ enhancement"
+description: enhancement
+title: "suggest: "
+labels: ["enhancement"] 
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Add a description
+      placeholder: "Type your description here..."
+    validations:
+      required: true

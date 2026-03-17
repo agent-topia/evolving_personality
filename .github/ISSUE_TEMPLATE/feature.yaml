@@ -1,0 +1,12 @@
+name: "🚀 Feature"
+description: Feature
+title: "Feature: "
+labels: ["Feature"] 
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Add a description
+      placeholder: "Type your description here..."
+    validations:
+      required: true
