@@ -1,6 +1,6 @@
 name: "✨ enhancement"
 description: enhancement
-title: "suggest: "
+title: "enhancement: "
 labels: ["enhancement"] 
 body:
   - type: textarea
