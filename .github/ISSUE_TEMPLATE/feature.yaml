@@ -1,7 +1,7 @@
-name: "🚀 Feature"
-description: Feature
-title: "Feature: "
-labels: ["Feature"] 
+name: "🚀 feature"
+description: feature
+title: "feature: "
+labels: ["feature"] 
 body:
   - type: textarea
     id: description
