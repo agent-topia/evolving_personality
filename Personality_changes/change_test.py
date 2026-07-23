@@ -3,8 +3,14 @@ import argparse
 from Class import *
 
 compensation_weight = 0.05
-save_load = {'QWEN' : 'data/QWEN_result.txt', 'OPENAI' : 'data/OPENAI_result.txt', 'LLAMA' : 'data/LLAMA_result.txt'}
+save_load = {'QWEN' : 'data/QWEN_result.txt', 'OPENAI' : 'data/OPENAI_result.txt', 'LLAMA' : 'data/LLAMA_result.txt', 'ATLASCLOUD' : 'data/ATLASCLOUD_result.txt'}
+model_aliases = {'ATLAS' : 'ATLASCLOUD', 'ATLAS_CLOUD' : 'ATLASCLOUD'}
 MBTI_LIST = ["INTP", "INTJ", "INFP", "INFJ", "ISTP", "ISTJ", "ISFP", "ISFJ", "ENFP", "ENFJ", "ENTP", "ENTJ", "ESFP", "ESFJ", "ESTP", "ESTJ"]
+
+
+def normalize_model_name(model: str):
+    normalized = model.replace("-", "_").upper()
+    return model_aliases.get(normalized, normalized)
 
 
 def one_func_test(mbti : str, function : str, model : str):
@@ -57,6 +63,7 @@ def one_func_test(mbti : str, function : str, model : str):
     return all_log, all_false_rsp, result, weight_data
 
 def one_mbti_test(mbti : str, model : str, scene : list):
+    model = normalize_model_name(model)
 
     save_msg = '\nmbti:' + mbti + '\n'
     all_result = []
@@ -82,7 +89,7 @@ if __name__ == "__main__":
     parser.add_argument('--method', type=str, default = 'all_scene') # all_scene / single_scene
     parser.add_argument('--scene', type=str, default = 'Se')
     parser.add_argument('--mbti', type=str, default= 'INTJ')
-    parser.add_argument('--model', type=str, default= 'OPENAI')# QWEN, OPENAI, LLAMA
+    parser.add_argument('--model', type=str, default= 'OPENAI')# QWEN, OPENAI, LLAMA, ATLASCLOUD
     args = parser.parse_args()
     if args.method == 'all_scene':
         scene = ["Fi", "Fe", "Ti", "Te", "Si", "Se", "Ni", "Ne"]
